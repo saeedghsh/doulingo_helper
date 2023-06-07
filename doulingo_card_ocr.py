@@ -1,3 +1,4 @@
+import argparse
 import os
 import glob
 import cv2
@@ -27,19 +28,33 @@ def remove_trailing_blank_lines(text):
     return '\n'.join(non_empty_lines)
 
 
-directory = "doulingo_cards_se_20230605/"
-file_paths = glob.glob(os.path.join(directory, '*.png'))
-
-result = []
-for file_path in file_paths:
-    image = cv2.imread(file_path)
-    xmin, ymin, xmax, ymax = find_largest_white_patch(image)
-    cropped_image = image[ymin:ymax, xmin:xmax]
-    text = pytesseract.image_to_string(cropped_image, lang='swe')
-    text = remove_trailing_blank_lines(text)
-    text = text.replace("\n", "\t")
-    result.append(text)
+def validate_dir_path(directory_path):
+    if not os.path.exists(directory_path):
+        return False
+    if not os.path.isdir(directory_path):
+        return False
+    if not os.listdir(directory_path):
+        return False
+    return True
 
 
-with open("result.txt", 'a') as file:
-    file.write("---\n".join(result))
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("directory", type=str, help="Path to the directory")
+    args = parser.parse_args()
+    assert validate_dir_path(args.directory), "bad directory path"
+
+    file_paths = glob.glob(os.path.join(args.directory, '*.png'))
+
+    result = []
+    for file_path in file_paths:
+        image = cv2.imread(file_path)
+        xmin, ymin, xmax, ymax = find_largest_white_patch(image)
+        cropped_image = image[ymin:ymax, xmin:xmax]
+        text = pytesseract.image_to_string(cropped_image, lang='swe')
+        text = remove_trailing_blank_lines(text)
+        text = text.replace("\n", "\t")
+        result.append(text)
+
+    with open(f"{args.directory}/result.txt", 'a') as file:
+        file.write("---\n".join(result))
