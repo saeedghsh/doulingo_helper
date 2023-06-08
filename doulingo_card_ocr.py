@@ -54,7 +54,8 @@ if __name__ == "__main__":
         text = pytesseract.image_to_string(cropped_image, lang='swe')
         text = remove_trailing_blank_lines(text)
         text = text.replace("\n", "\t")
-        result.append(text)
+        if text not in result:
+            result.append(text)
 
     with open(f"{args.directory}/result.txt", 'a') as file:
         file.write("---\n".join(result))
