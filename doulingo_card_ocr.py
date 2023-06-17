@@ -40,7 +40,8 @@ def validate_dir_path(directory_path):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("directory", type=str, help="Path to the directory")
+    parser.add_argument("--directory", type=str, help="Path to the directory")
+    parser.add_argument('--delete-duplicates', default=False, action='store_true', help="delete photos that are duplicated")
     args = parser.parse_args()
     assert validate_dir_path(args.directory), "bad directory path"
 
@@ -56,6 +57,10 @@ if __name__ == "__main__":
         text = text.replace("\n", "\t")
         if text not in result:
             result.append(text)
+        else:
+            if args.delete_duplicates:
+                os.remove(file_path)
+            
 
     with open(f"{args.directory}/result.txt", 'a') as file:
         file.write("---\n".join(result))
