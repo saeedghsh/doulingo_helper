@@ -61,7 +61,6 @@ if __name__ == "__main__":
         else:
             if args.delete_duplicates:
                 os.remove(file_path)
-            
 
     with open(f"{args.directory}/result.txt", 'a') as file:
         file.write("---\n".join(result))
