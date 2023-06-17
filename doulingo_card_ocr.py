@@ -46,6 +46,7 @@ if __name__ == "__main__":
     assert validate_dir_path(args.directory), "bad directory path"
 
     file_paths = glob.glob(os.path.join(args.directory, '*.png'))
+    file_paths.sort()
 
     result = []
     for file_path in file_paths:
