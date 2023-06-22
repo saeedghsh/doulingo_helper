@@ -3,6 +3,7 @@ import os
 import glob
 import cv2
 import pytesseract
+from typing import List
 
 # For the pytesseract
 # Set the path to the directory containing the language data files
@@ -29,6 +30,7 @@ def remove_trailing_blank_lines(text):
 
 
 def validate_dir_path(directory_path):
+    """chech that the path is a dir, it exists and is not empty"""
     if not os.path.exists(directory_path):
         return False
     if not os.path.isdir(directory_path):
@@ -38,29 +40,57 @@ def validate_dir_path(directory_path):
     return True
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--directory", type=str, help="Path to the directory")
-    parser.add_argument('--delete-duplicates', default=False, action='store_true', help="delete photos that are duplicated")
-    args = parser.parse_args()
-    assert validate_dir_path(args.directory), "bad directory path"
+def image_to_text(image_path: str) -> str:
+    """"""
+    image = cv2.imread(image_path)
+    xmin, ymin, xmax, ymax = find_largest_white_patch(image)
+    cropped_image = image[ymin:ymax, xmin:xmax]
+    text = pytesseract.image_to_string(cropped_image, lang='swe')
+    text = remove_trailing_blank_lines(text)
+    text = text.replace("\n", "\t")
+    return text
 
-    file_paths = glob.glob(os.path.join(args.directory, '*.png'))
+
+def all_texts_from_directory(
+    directory_path: str, check_for_duplicates: List[str] = []
+) -> List[str]:
+    """
+    extract text from all images in directory_path
+    If an image is a duplicate from the images in directory_path or the
+    text already parsed in check_for_duplicates, delet that image skip the
+    text.
+    """
+    file_paths = glob.glob(os.path.join(directory_path, '*.png'))
     file_paths.sort()
 
     result = []
     for file_path in file_paths:
-        image = cv2.imread(file_path)
-        xmin, ymin, xmax, ymax = find_largest_white_patch(image)
-        cropped_image = image[ymin:ymax, xmin:xmax]
-        text = pytesseract.image_to_string(cropped_image, lang='swe')
-        text = remove_trailing_blank_lines(text)
-        text = text.replace("\n", "\t")
-        if text not in result:
+        text = image_to_text(file_path)
+        if text not in result and text not in check_for_duplicates:
             result.append(text)
         else:
-            if args.delete_duplicates:
-                os.remove(file_path)
+            print(f"this is a duplicate, deleting: {file_path}")
+            os.remove(file_path)
 
-    with open(f"{args.directory}/result.txt", 'a') as file:
-        file.write("---\n".join(result))
+    return result
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--directories",
+        nargs="+",
+        type=str,
+        help="Path to the directories, the last one is the target and the preceeding are only to check for duplicates")
+    args = parser.parse_args()
+
+    check_for_duplicates = []
+    for directory in args.directories[:-1]:
+        assert validate_dir_path(directory), f"bad directory path {directory}"
+        check_for_duplicates.extend(all_texts_from_directory(directory, check_for_duplicates))
+
+    assert validate_dir_path(args.directories[-1]), f"bad directory path {args.directories[-1]}"
+    result = all_texts_from_directory(args.directories[-1], check_for_duplicates)
+
+    with open(f"{args.directories[-1]}/result.txt", 'a') as file:
+        file.write("\n".join(result))
