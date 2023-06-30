@@ -70,7 +70,7 @@ def all_texts_from_directory(
         if text not in result and text not in check_for_duplicates:
             result.append(text)
         else:
-            print(f"this is a duplicate, deleting: {file_path}")
+            print(f"\tdeleting duplicate: {file_path}")
             os.remove(file_path)
 
     return result
@@ -88,10 +88,11 @@ if __name__ == "__main__":
 
     check_for_duplicates = []
     for directory in args.directories[:-1]:
-        assert validate_dir_path(directory), f"bad directory path {directory}"
+        print(f"Processing: {directory}")
+        assert validate_dir_path(directory), f"bad directory path: {directory}"
         check_for_duplicates.extend(all_texts_from_directory(directory, check_for_duplicates))
 
-    assert validate_dir_path(args.directories[-1]), f"bad directory path {args.directories[-1]}"
+    assert validate_dir_path(args.directories[-1]), f"bad directory path: {args.directories[-1]}"
     result = all_texts_from_directory(args.directories[-1], check_for_duplicates)
 
     with open(f"{args.directories[-1]}/result.txt", 'a') as file:
