@@ -7,10 +7,12 @@ from typing import List
 
 # For the pytesseract
 # Set the path to the directory containing the language data files
-os.environ['TESSDATA_PREFIX'] = '/usr/share/tesseract-ocr/4.00/tessdata'  # Replace with the actual path
+os.environ['TESSDATA_PREFIX'] = '/usr/share/tesseract-ocr/4.00/tessdata'
 
 
 def find_largest_white_patch(image):
+    """Return the bounding box of the biggest white patch.
+    This white patch supposedly contains the text."""
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     _, thresholded = cv2.threshold(gray, 250, 255, cv2.THRESH_BINARY)
     contours, _ = cv2.findContours(thresholded, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
@@ -30,7 +32,7 @@ def remove_trailing_blank_lines(text):
 
 
 def validate_dir_path(directory_path):
-    """chech that the path is a dir, it exists and is not empty"""
+    """Return True if the path is a dir, it exists and is not empty."""
     if not os.path.exists(directory_path):
         return False
     if not os.path.isdir(directory_path):
@@ -41,7 +43,7 @@ def validate_dir_path(directory_path):
 
 
 def image_to_text(image_path: str) -> str:
-    """"""
+    """Return the text inside the image."""
     image = cv2.imread(image_path)
     xmin, ymin, xmax, ymax = find_largest_white_patch(image)
     cropped_image = image[ymin:ymax, xmin:xmax]
@@ -54,12 +56,11 @@ def image_to_text(image_path: str) -> str:
 def all_texts_from_directory(
     directory_path: str, check_for_duplicates: List[str] = []
 ) -> List[str]:
-    """
-    extract text from all images in directory_path
+    """Return a list of texts from all images in directory_path.
+
     If an image is a duplicate from the images in directory_path or the
-    text already parsed in check_for_duplicates, delet that image skip the
-    text.
-    """
+    text already parsed in check_for_duplicates, delete that image and
+    skip the text."""
     file_paths = glob.glob(os.path.join(directory_path, '*.png'))
     file_paths.sort()
 
@@ -81,7 +82,8 @@ if __name__ == "__main__":
         "--directories",
         nargs="+",
         type=str,
-        help="Path to the directories, the last one is the target and the preceeding are only to check for duplicates")
+        help="Path to the directories. The last one is the target and the preceeding are only to check for duplicates",
+    )
     args = parser.parse_args()
 
     check_for_duplicates = []
