@@ -4,6 +4,7 @@ import glob
 import cv2
 import pytesseract
 from typing import List
+from tqdm import tqdm
 
 # For the pytesseract
 # Set the path to the directory containing the language data files
@@ -65,7 +66,7 @@ def all_texts_from_directory(
     file_paths.sort()
 
     result = []
-    for file_path in file_paths:
+    for file_path in tqdm(file_paths, total=len(file_paths)):
         text = image_to_text(file_path)
         if text not in result and text not in check_for_duplicates:
             result.append(text)
@@ -87,12 +88,14 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     check_for_duplicates = []
+    print()
     for directory in args.directories[:-1]:
         print(f"Processing: {directory}")
         assert validate_dir_path(directory), f"bad directory path: {directory}"
         check_for_duplicates.extend(all_texts_from_directory(directory, check_for_duplicates))
 
     assert validate_dir_path(args.directories[-1]), f"bad directory path: {args.directories[-1]}"
+    print(f"Processing: {args.directories[-1]}")
     result = all_texts_from_directory(args.directories[-1], check_for_duplicates)
 
     with open(f"{args.directories[-1]}/result.txt", 'a') as file:
