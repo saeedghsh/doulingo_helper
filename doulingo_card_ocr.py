@@ -80,23 +80,20 @@ def all_texts_from_directory(
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--directories",
-        nargs="+",
+        "--directory",
         type=str,
-        help="Path to the directories. The last one is the target and the preceeding are only to check for duplicates",
+        help="Path to the directory that contains sub-dir containing cards",
     )
     args = parser.parse_args()
 
-    check_for_duplicates = []
-    print()
-    for directory in args.directories[:-1]:
+    directories = glob.glob(f"{args.directory}/*/", recursive=False)
+    print(f"Found {len(directories)} sub-directories...")
+
+    all_results = []
+    for directory in directories:
         print(f"Processing: {directory}")
         assert validate_dir_path(directory), f"bad directory path: {directory}"
-        check_for_duplicates.extend(all_texts_from_directory(directory, check_for_duplicates))
-
-    assert validate_dir_path(args.directories[-1]), f"bad directory path: {args.directories[-1]}"
-    print(f"Processing: {args.directories[-1]}")
-    result = all_texts_from_directory(args.directories[-1], check_for_duplicates)
-
-    with open(f"{args.directories[-1]}/result.txt", 'a') as file:
-        file.write("\n".join(result))
+        results = all_texts_from_directory(directory, all_results)
+        with open(f"{directory}/result.txt", 'a') as file:
+            file.write("\n".join(results))
+        all_results.extend(results)
