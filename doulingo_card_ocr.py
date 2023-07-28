@@ -66,14 +66,16 @@ def all_texts_from_directory(
     file_paths.sort()
 
     result = []
+    deleted_files = []
     for file_path in tqdm(file_paths, total=len(file_paths)):
         text = image_to_text(file_path)
         if text not in result and text not in check_for_duplicates:
             result.append(text)
         else:
-            print(f"\tdeleting duplicate: {file_path}")
+            deleted_files.append(f"\tdeleting duplicate: {file_path}\n")
             os.remove(file_path)
-
+    for line in deleted_files:
+        print(line)
     return result
 
 
@@ -87,6 +89,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     directories = glob.glob(f"{args.directory}/*/", recursive=False)
+    directories.sort()
     print(f"Found {len(directories)} sub-directories...")
 
     all_results = []
