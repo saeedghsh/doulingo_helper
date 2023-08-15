@@ -844,4 +844,418 @@ Jag tycker att det är hemskt att	flyga.	I think that it is terrible to fly.
 Ett litet barn kan bli nervöst om det	inte får skratta.	A small child can become nervous if it is	not allowed to laugh.
 Det är alltid trevligt att träffa dem.	It is always nice to meet them.
 De verkar tillämpa samma system.	They seem to apply the same system.
+Har du skurit löken?	Have you cut the onion?Vi har bott här sedan förra	sommaren.	We have lived here since last summer.
+Vi har presenterat vår studie.	We have presented our study.
+Din son har hoppat över bordet!	Your son has jumped over the table!
+Vi har inte beställt vin.	We have not ordered wine.
+Han har druckit en kopp kaffe.	He has drunk a cup of coffee.
+Har du arbetat här länge?	Have you worked here long?
+Vem har vunnit?	Who has won?
+Jag har bott i Köpenhamn.	I have lived in Copenhagen.
+Har du berättat för dina barn?	Have you told your children?
+Den här vägen är kortast.	This road is the shortest.
+Han har åkt hem.	He has gone home.
+Jag ringer dig när gästerna har åkt.	I will call you when the guests have left.
+Har du tänkt på oss?	Have you thought about us?
+Har du träffat min fru?	Have you met my wife?
+Hon har träffat en underbar ny man.	She has met a wonderful new man.
+Du har sovit för länge.	You have slept for too long.
+Hon har sovit i hundra år.	She has slept for a hundred years.
+Hon har arbetat utomlands i flera år.	She has worked abroad for several years.
+Jag har verkligen försökt.	I have really tried.
+Vart har hon simmat?	Where has she swum?
+Har artisten sjungit än?	Has the artist sung yet?
+Vad har du valt att göra?	What have you chosen to do?
+Han har valt att bo i Köpenhamn.	He has chosen to live in Copenhagen.
+Vargen har hoppat över stolen.	The wolf has jumped over the chair.
+Hunden har följt efter mig i två	timmar.	The dog has followed me for two hours.
+Barnen har följt med sina föräldrar	till stranden.	The children have followed their parents to	the beach.
+De har vunnit en ny bil.	They have won a new car.
+Han har bott på Åland.	He has lived in the Åland Islands.
+De har inte öppnat än.	They have not opened yet.
+Har du inte öppnat brevet än?	Have you not opened the letter yet?
+Hon har berättat för sina föräldrar.	She has told her parents.
+Vem har berättat det?	Who has told you that?
+Hon har tvingat mig att simma.	She has forced me to swim.
+Jag har inte tvingat dig att göra	något.	I have not forced you to do anything.
+Hon har bott här i fem år.	She has lived here for five years.
+Det är trevligt här.	It is nice here.
+Mina föräldrar har tagit min säng.	My parents have taken my bed.
+Hon har lagt kudden i soffan.	She has put the pillow on the couch.
+Min svarta katt har äntligen kommit	hem.	My black cat has finally come home.
+Vad har du sagt till dem?	What have you said to them?
+Vad har du druckit?	What have you been drinking?
+De har sålt huset.	They have sold the house.
+Har du sålt din klocka?	Have you sold your watch?
+Har ni saknat mig?	Have you missed me?
+Han har köpt sig en klänning.	He has bought himself a dress.
+Jag har stannat här förut.	I have stayed here before.
+Har han stannat här länge?	Has he stayed here for a long time?
+Jag har länge känt mig ensam.	I have felt lonely for a long time.
+Hur länge har ni känt varandra?	How long have you known each other?
+Har du tvättat dig?	Have you washed yourself?
+Han har tvättat sin hund.	He has washed his dog.
+Jag har stängt dörren.	I have closed the door.
+Har du stått här länge?	Have you been standing here long?
+Bordet har alltid stått vid fönstret.	The table has always been by the window.
+Har du bara antagit det?	Have you just assumed that?
+Hon har presenterat sin idé.	She has presented her idea.
+Hon har beställt böcker från Island.	She has ordered books from Iceland.
+Jag har bott på många ställen.	I have lived in many places.
+Katten har tvingat henne att sova på	soffan.	The cat has forced her to sleep on the	couch.
+Vi har köpt ett hus.	We have bought a house.
+Har du slutat titta på tv än?	Have you finished watching TV yet?
+Har du träffat hennes flickvän?	Have you met her girlfriend?
+Det har stått i tidningen.	It has been in the newspaper.
+Vi har inte antagit någonting.	We have not assumed anything.
+Vi är enkla människor.	We are simple people.
+Jag tar det minsta äpplet.	I am taking the smallest apple.
+Jag har inte ätit tårta på flera år.	I have not eaten cake for several years.
+Pappa har gått till jobbet.	Dad has gone to work.
+Han har ätit fem smörgåsar med	tomat och ost.	He has eaten five sandwiches with tomato	and cheese.
+Jag har redan länge gått vid din	sida.	I have already walked by your side for a	long time.
+Jag sov länge i morse.	I slept for a long time this morning.
+Hur många mattor har ni sett i dag?	How many rugs have you seen today?
+Jag har inte ätit sedan jag kom hem.	I have not eaten since I came home.
+Varför har han tagit din plånbok?	Why has he taken your wallet?
+Jag har tappat nycklarna.	I have lost my keys.
+Kon är stor.	The cow is big.
+Ser du fåren?	Do you see the sheep?
+Fåren är vita.	The sheep are white.
+Vad säger räven?	What does the fox say?
+Igelkotten är vass.	The hedgehog is sharp.
+Lammet sover i min säng.	The lamb is sleeping in my bed.
+Kaninerna leker i parken.	The rabbits play in the park.
+Det sitter en apa i sängen.	There is a monkey sitting in the bed.
+Jag hittade en igelkott i trädgården.	I found a hedgehog in the garden.
+Flickan ser ett grått lamm.	The girl sees a gray lamb.
+Varför gråter ugglan?	Why is the owl crying?
+Katten har vingar!	The cat has wings!
+Jag ser två lejon!	I see two lions!
+Hundens svans är lång.	The dog's tail is long.
+En rosa gris och ett vitt får simmar i	vattnet.	A pink pig and a white sheep are	swimming in the water.
+Vargen har en grå svans.	The wolf has a gray tail.
+En fluga är en insekt.	A fly is an insect.
+Det är mycket flugor och myggor i	kväll.	There are many flies and mosquitos	tonight.
+Min syster är rädd för insekter.	My sister is afraid of insects.
+Myggan har vingar.	The mosquito has wings.
+Flygplanets vinge är borta.	The airplane's wing is gone.
+Räven överraskar grisen.	The fox is surprising the pig.
+Små grodorna	The small frogs
+Myggan bet mig!	The mosquito bit me!
+En svensk tiger	A Swedish tiger
+Ser du fjärilen?	Do you see the butterfly?
+Vi jagar varje år.	We hunt every year.
+Det är en orm i skon.	There is a snake in the shoe.
+Den gula ödlan är söt.	The yellow lizard is cute.
+Ekorren sitter på bordet.	The squirrel is sitting on the table.
+Myggorna biter kon.	The mosquitoes are biting the cow.
+Det är en groda.	It is a frog.
+Det är svårt att fånga ekorrar.	It is difficult to catch squirrels.
+Det ligger en ödla på golvet i	badrummet.	There is a lizard on the floor in the	bathroom.
+Du får försöka.	You may try.
+Du får absolut inte äta den!	You may absolutely not eat it!
+Ja, det kan jag.	Yes, I can.
+Kan du inte säga någonting roligt?	Can't you say something funny?
+När ska vi komma?	When should we come?
+När ska jag ringa tillbaka?	When shall I call back?
+Du måste tänka mer!	You have to think more!
+Han fick inte simma.	He was not allowed to swim.
+Hon fick göra vad hon ville.	She was allowed to do what she wanted.
+Du borde äta mer bröd.	You should eat more bread.
+Vi är inte tvungna att bo här.	We are not obliged to live here.
+Lejonen är gamla.	The lions are old.
+Vi ville gå hem, men det fick vi inte.	We wanted to go home, but we were not	allowed to.
+Kungen jagar älgar i skogen.	The king is hunting moose in the forest.
+Fåren dricker ofta vatten.	The sheep often drink water.
+Det sitter en mygga på kon.	There is a mosquito on the cow.
+Jag behöver en till ko.	I need another cow.
+Det är varken en igelkott eller en	kanin.	It is neither a hedgehog nor a rabbit.
+Ekorren har en lång svans.	The squirrel has a long tail.
+En enkel klänning	A simple dress
+Du är den vackraste jag vet.	You are the most beautiful person I know.
+Han måste visa sina kunskaper i	svenska.	He has to show his knowledge of Swedish.
+Har du gett henne mitt	telefonnummer?	Have you given her my phone number?
+En vacker fjäril flög utanför mitt	fönster.	A beautiful butterfly flew outside my	window.
+Jag känner mig tvungen att säga	detta.	I feel obliged to say this.
+Den starka tjejen har en häst och en	apa.	The strong girl has a horse and a monkey.
+Vi borde lära oss mer om vikingar.	We should learn more about Vikings.
+Apan tittar på dig!	The monkey is looking at you!
+Min son har en katt och en ödla.	My son has a cat and a lizard.
+Han blev tvungen att vänta.	He was obliged to wait.
+Har ni varit här länge?	Have you been here for a long time?
+Han har gett mig nya böcker.	He has given me new books.
+Jag har tänkt på en sak.	I have thought about something.
+Vi har känt varandra sedan vi var	barn.	We have known each other since we were	children.
+Restaurangen har stängt.	The restaurant has closed.
+Hon har slutat springa varje dag.	She has stopped running every day.
+Jag har tvättat alla våra kläder.	I have washed all our clothes.
+Har du hört om mannen som bara åt	myror?	Have you heard about the man who only	ate ants?
+Mamma har gjort en soppa.	Mom has made a soup.
+Jag har inte beställt det här.	I have not ordered this.
+Jag har aldrig träffat honom.	I have never met him.
+Jag har varit på skolan hela dagen.	I have been at school all day.
+Lyssna på mig!	Listen to me!
+Åk hem!	Go home!
+Åk inte dit!	Do not go there!
+Kom hit!	Come here!
+Ät äpplet!	Eat the apple!
+Läs en bok!	Read a book!
+Sälj huset!	Sell the house!
+Sälj inte bilen till honom.	Do not sell the car to him.
+Sälj boken.	Sell the book.
+Köp mer mat!	Buy more food!
+Köp en apelsin!	Buy an orange!
+Tänk på barnen.	Think about the children.
+Tro mig.	Believe me.
+Tro dem inte!	Do not believe them!
+Ta tåget!	Take the train!
+Ta av dig skorna!	Take your shoes off!
+Ta med dig boken.	Bring the book.
+Betala nu!	Pay now!
+Betala inte för smörgåsen.	Do not pay for the sandwich.
+Sjung inte!	Do not sing!
+Gör läxorna!	Do the homework!
+Skriv en bok!	Write a book!
+Skriv ett brev!	Write a letter!
+Spring snabbare!	Run faster!
+Gå hem!	Go home!
+Förlåt oss!	Forgive us!
+Förlåt att jag inte såg er!	Sorry that I did not see you!
+Ge inte upp!	Do not give up!
+Ge mig ett leende!	Give me a smile!
+Håll om mig!	Hold me!
+Öppna dörren!	Open the door!
+Öppna fönstret!	Open the window!
+Följ med mig!	Come with me!
+Följ inte efter oss.	Do not follow us.
+Fortsätt läsa.	Keep reading.
+Fråga inte mig!	Do not ask me!
+Fråga mig inte varför.	Do not ask me why.
+Vänta!	Wait!
+Se upp!	Watch out!
+Ring mig!	Call me!
+Svara nu!	Answer now!
+Gå och lägg dig!	Go to bed!
+Lägg brevet i väskan.	Put the letter in the bag.
+Ställ glasen här!	Put the glasses here!
+Möt mig i parken!	Meet me in the park!
+Möt oss vid tåget!	Meet us by the train!
+Sluta!	Stop!
+Var glad!	Be happy!
+Låt mig vara.	Let me be.
+Låt dem inte vänta.	Do not let them wait.
+Oroa er inte!	Do not worry!
+Titta, en apa!	Look, a monkey!
+Titta, kaninen äter kanelbullar!	Look, the rabbit is eating cinnamon buns!
+Titta inte nu!	Do not look now!
+Lek med barnen!	Play with the children!
+Lek inte med maten!	Do not play with the food!
+Ring mig på mobilen!	Call me on my cell phone!
+Låt barnen gå på tåget först.	Let the children get on the train first.
+Gå långsammare!	Walk more slowly!
+Möt våren i Stockholm!	Meet spring in Stockholm!
+Kom tillbaka!	Come back!
+Se upp för dörrarna.	Watch out for the doors.
+Skriv svaret på papperet.	Write the answer on the paper.
+Ät inte upp all mat!	Do not eat all the food!
+Ge mig kniven!	Give me the knife!
+Oroa dig inte, var glad!	Do not worry, be happy!
+Ställ tallrikarna på bordet!	Put the plates on the table!
+Håll dig varm.	Keep warm.
+Jag har köpt elva böcker.	I have bought eleven books.
+Min syster hade skrivit en viktig bok.	My sister had written an important book.
+Tro inte på allt hon säger.	Do not believe in everything she says.
+Sluta sjunga!	Stop singing!
+Lägg duken på bordet!	Put the tablecloth on the table!
+Sluta med det där!	Stop it!
+Spring inte så snabbt.	Do not run so fast.
+Jag är en vanlig kanin.	I am an ordinary rabbit.
+Tigern tycker att du ser ut som en	god människa.	The tiger thinks that you look like a good	person.
+Hennes orm talar danska!	Her snake speaks Danish!
+Bet flugan dig?	Did the fly bite you?
+Får jag fråga honom?	May I ask him?
+Vi borde hjälpa farmor.	We should help grandmother.
+Du måste lyssna på mig!	You have to listen to me!
+Hon kan komma tillbaka.	She can come back.
+Hon borde komma hem nu.	She should come home now.
+Turisten måste visa dokumenten.	The tourist has to show the documents.
+Du får sälja hunden.	You may sell the dog.
+Jag har sålt min bil till en av mina	kusiner.	I have sold my car to one of my cousins.
+Ja, jag har antagit det.	Yes, I have assumed that.
+Jag ska betala!	I will pay!
+Jag ska vila nu.	I will rest now.
+Ska du vila efter middagen?	Will you rest after dinner?
+Ska du sluta arbeta?	Will you stop working?
+Jag ska sluta äta kött.	I will stop eating meat.
+Jag ska följa dig hem.	I will follow you home.
+Jag ska följa honom till parken.	I will follow him to the park.
+Vi ska dricka kaffe nu.	We will drink coffee now.
+De säger att de ska leta.	They say that they will look.
+Jag ska bjuda dig på middag.	I will treat you to dinner.
+Jag ska boka ett rum på hotellet.	I will book a room at the hotel.
+Vi ska gifta oss.	We will get married.
+Vi ska skynda oss.	We will hurry.
+Jag ska skynda mig!	I will hurry!
+Ska du undervisa i finska?	Will you teach Finnish?
+Vem ska undervisa i tyska?	Who will teach German?
+Vi ska hänga kläderna i garderoben.	We will hang the clothes in the closet.
+Jag tror att det kommer att regna.	I think it is going to rain.
+Du kommer att tappa tallriken!	You are going to drop the plate!
+Hon kommer att uppnå sitt mål.	She is going to achieve her goal.
+I morgon bitti börjar eleverna	klockan åtta.	Tomorrow morning the students are	starting at eight o'clock.
+De kommer att ta tåget i morgon bitti	klockan sex.	They are going to take the train tomorrow	morning at six o'clock.
+Var ska du hänga nycklarna?	Where are you going to hang the keys?
+Det kommer att ordna sig.	It is going to work out.
+Jag hoppas att allt kommer att ordna	sig.	I hope that everything is going to work out.
+Allt kommer att ordna sig!	Everything is going to work out!
+Jag kommer att sakna dig.	Il am going to miss you.
+Jag har druckit två glas vatten.	I have drunk two glasses of water.
+Det kommer inte att hända.	It is not going to happen.
+Vi ska ha fest i övermorgon.	We will have a party the day after	tomorrow.
+I övermorgon börjar min nya kurs i	tyska.	My new German class is starting the day	after tomorrow.
+Det kommer inte att fungera.	It is not going to work.
+Du kommer att glömma nycklarna!	You are going to forget your keys!
+Jag kommer aldrig att glömma dig.	I am never going to forget you.
+Det kommer inte att påverka oss.	It is not going to affect us.
+Hon kommer att hindra mig från att	leka.	She is going to prevent me from playing.
+Hans föräldrar kommer att hindra	honom från att åka.	His parents are going to prevent him from	going.
+I morgon bitti ska vi äta frukost	tillsammans.	Tomorrow morning we will eat breakfast	together.
+Hans fru kommer hem i morgon bitti.	His wife is coming home tomorrow	morning.
+Han sa att han inte kunde komma	förrän i övermorgon.	He said that he could not come until the	day after tomorrow.
+Datorn kommer snart att fungera	igen.	The computer is soon going to work again.
+De kommer att hindra henne från att	komma.	They are going to prevent her from	coming.
+Snart kommer något att hända.	Soon something is going to happen.
+Min dotter tycker om hästar och kor.	My daughter likes horses and cows.
+Vi ska åka till Finland om en vecka.	We will go to Finland in a week.
+Jag ska ge dig något att dricka.	I will give you something to drink.
+De har åkt till Danmark.	They have gone to Denmark.
+Gör det inte!	Do not do it!
+Tro mig, jag har försökt.	Believe me, I have tried.
+Fråga någon annan!	Ask somebody else!
+Håll er hemma!	Stay at home!
+Se upp med den där björnen, den	verkar arg.	Careful with that bear, it seems angry.
+Lägg tillbaka sakerna!	Put the things back!
+Var inte så känslig!	Do not be so sensitive!
+Svara inte på vilka frågor som helst.	Do not answer just any questions.
+Grodan är grön.	The frog is green.
+Jag vill leva i Europa.	I want to live in Europe.
+Det är svårt att leva ensam.	It is difficult to live alone.
+Vi ska starta en grupp.	We will start a group.
+Han kunde inte starta bilen.	He could not start the car.
+Det var svårt att starta motorn.	It was difficult to start the engine.
+Vi ska täcka hela väggen.	We will cover the whole wall.
+Jag tycker inte om att välja.	I do not like to choose.
+Jag tycker om att känna lycka.	I like feeling happiness.
+Det är roligt att känna många	människor.	It is fun to know a lot of people.
+Det var roligt att träffa dig!	It was fun to meet you!
+Jag tycker om att prata svenska.	I like to speak Swedish.
+Det är inte svårt att prata svenska.	It is not difficult to speak Swedish.
+Jag älskar att måla!	I love to paint!
+Han tycker om att måla.	He likes to paint.
+Vi behöver låna en bil.	We need to borrow a car.
+Vi försöker öka antalet.	We are trying to increase the number.
+Antalet studenter kommer att öka.	The number of students will increase.
+Jag är rädd för att flyga.	I am afraid of flying.
+Är det svårt att bygga flygplan?	Is it difficult to build airplanes?
+Du får inte lämna barnen ensamma	hemma.	You may not leave the children home	alone.
+Jag måste lämna honom ensam i	Stockholm.	I have to leave him alone in Stockholm.
+Det kan inte skada.	It cannot hurt.
+Jag vill spara pengar.	I want to save money.
+Hur kan de tillåta det?	How can they allow it?
+Jag kan inte tillåta dig att prata med	honom.	I cannot allow you to speak with him.
+Jag vill finnas där för dig.	I want to be there for you.
+Vi kan inte tillåta honom att skada	OSS.	We cannot allow him to hurt us.
+Jag ska finnas där för henne.	I will be there for her.
+Det är tråkigt att skära kött.	It is boring to cut meat.
+Du behöver en bättre kniv för att	skära mindre bitar.	You need a better knife to cut smaller	pieces.
+Den här gången måste vi vinna.	This time we have to win.
+Du borde tillämpa hennes idéer.	You should apply her ideas.
+Jag kan inte tillämpa mina	kunskaper.	I cannot apply my knowledge.
+Du måste förstå!	You have to understand!
+Han verkar inte förstå vad jag säger.	He does not seem to understand what I am	saying.
+Någon borde stoppa dem.	Somebody should stop them.
+Ingenting kan stoppa mig!	Nothing can stop me!
+Jag orkar inte stötta dig.	I do not have the energy to support you.
+Jag vill hoppa över stolen.	I want to jump over the chair.
+Hur länge måste vi sitta här?	How long do we have to sit here?
+Det är inte bra att sitta för mycket.	It is not good to sit too much.
+Jag vill förbättra min svenska.	I want to improve my Swedish.
+Du kan förbättra din presentation.	You can improve your presentation.
+Jag har aldrig sett min pappa gråta.	I have never seen my dad cry.
+Jag tycker att det är svårt att gråta.	I think it is difficult to cry.
+När jag såg bilden på henne började	jag också gråta.	When I saw the picture of her I also started	to cry.
+Ska jag upprepa?	Shall I repeat?
+Läraren vill inte upprepa svaren.	The teacher does not want to repeat the	answers.
+Var får jag stå?	Where may I stand?
+Nu måste byxorna passa!	Now the pants have to fit!
+De röda handskarna verkar passa	henne jättebra.	The red gloves seem to fit her very well.
+Du måste räkna pengarna.	You have to count the money.
+Vill ni repetera i kväll?	Do you want to rehearse tonight?
+Kan du väcka mig i morgon?	Can you wake me up tomorrow?
+Ska jag väcka dig klockan sju?	Shall I wake you up at seven?
+Du måste utveckla dina idéer.	You must develop your ideas.
+Jag vill utveckla nya datorer.	I want to develop new computers.
+Jag vill att täcket ska täcka hela	sängen.	I want the blanket to cover the whole bed.
+Kan du låna mig hundra kronor?	Can you lend me a hundred crowns?
+Vi ville inte skada någon.	We did not want to hurt anyone.
+Det är viktigt att stötta sina barn.	It is important to support one's children.
+Det är dags att träffa hennes	föräldrar.	It is time to meet her parents.
+De måste hitta en ny bil.	They have to find a new car.
+Jag letar efter någon att prata med.	I am searching for someone to talk to.
+Hur ska vi skära osten utan	osthyvel?	How should we cut the cheese without a	cheese slicer?
+Det tar sex månader att utveckla	detta.	It takes six months to develop this.
+Han kommer aldrig att uppnå något.	He is never going to achieve anything.
+Jag ska hänga klockan över sängen.	I will hang the clock over the bed.
+Jag ska undervisa i kinesiska i höst.	I will teach Chinese this fall.
+Ryggsäcken är öppen, du kommer	att tappa allt!	The backpack is open, you are going to	drop everything!
+Kan du upprepa frågan?	Can you repeat the question?
+Vi ska låta henne bestämma.	We will let her decide.
+Vi ska leta efter andra alternativ.	We will look for other alternatives.
+Vem ska han gifta sig med?	Who will he get married to?
+Det kommer att påverka hela landet.	It is going to affect the whole country.
+Hon kommer snart att glömma	honom.	She will soon forget him.
+Ingen vet vad som kommer att	hända.	Nobody knows what is going to happen.
+Åk till Finland nästa gång.	Go to Finland next time.
+Fortsätt äta, tänk inte på mig!	Keep eating, do not think about me!
+Håll i hatten!	Hold on to your hat!
+Han brukade spara hennes brev.	He used to keep her letters.
+För att vinna måste ni springa	snabbare.	In order to win you have to run faster.
+Han hade inte skurit äpplet i bitar.	He had not cut the apple into pieces.
+Min farbror hade åkt.	My uncle had gone.
+Killen, vars flickvän studerar	svenska, kommer från Kina.	The guy, whose girlfriend is studying	Swedish, comes from China.
+Nöjesfältet hade stängt.	The amusement park had closed.
+Vem hade kommit?	Who had come?
+Hur länge hade piloten vetat?	How long had the pilot known?
+Mannen vars fru är polis är här nu.	The man whose wife is a police officer is	here now.
+Kocken hade skurit tomaten.	The cook had cut the tomato.
+Hade hon redan åkt när du kom?	Had she already gone when you came?
+De hade valt en annan kommitté.	They had chosen another committee.
+Hon gick fram för att känna på	vattnet.	She walked forward in order to feel the	water.
+Hur mycket ska jag betala?	How much should I pay?
+Det kommer att fungera precis lika	bra.	It is going to work just as well.
+Hade du valt mig?	Had you chosen me?
+Ingen hade vetat det.	Nobody had known that.
+Min vän, vars pappa är advokat,	sitter i fängelset.	My friend, whose dad is a lawyer, is in jail.
+Om jag bara hade vetat	If I only had known
+Ställ klockan på åtta!	Set the clock to eight!
+Det är inte lätt att välja yrke.	It is not easy to choose a profession.
+Jag vill inte leva utan dig.	I do not want to live without you.
+Att skratta är bra för dig!	Laughing is good for you!
+De brukar repetera på lördagar.	They usually rehearse on Saturdays.
+Gör något annat!	Do something else!
+Jag hade gett dig tid.	I had given you time.
+Det är inte så viktigt att alltid vinna.	It is not so important to always win.
+Man får inte välja sina föräldrar.	One does not get to choose one's parents.
+Jag ska leta under sängen.	I will look under the bed.
+Hans föräldrar hade redan gett	honom en hund.	His parents had already given him a dog.
+Vart hade han gått?	Where had he gone?
+Jag hade inte ätit än.	I had not eaten yet.
+Prästen hade dött under natten.	The priest had died during the night.
+Jag hade valt ett större rum.	I had chosen a bigger room.
+När jag kom fram så hade hon redan	gått.	When I arrived, she had already gone.
+Jag tycker att det är hemskt att	flyga.	I think that it is terrible to fly.
+Ett litet barn kan bli nervöst om det	inte får skratta.	A small child can become nervous if it is	not allowed to laugh.
+Det är alltid trevligt att träffa dem.	It is always nice to meet them.
+De verkar tillämpa samma system.	They seem to apply the same system.
 Har du skurit löken?	Have you cut the onion?

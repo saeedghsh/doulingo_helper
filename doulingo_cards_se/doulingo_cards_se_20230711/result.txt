@@ -163,4 +163,334 @@ Familjen äter alltid kött med potatis	och sås på fredagar.	The family always
 Han brukar oftast ha gröna kläder på	sig.	He usually wears green clothes.
 Jag tycker om starkt kaffe.	I like strong coffee.
 Är den här platsen ledig?	Is this place free?
+Den här tröjan är varm, men den där	är varmare.	This sweater is warm, but that one is	warmer.Han bor i den rika delen av staden.	He lives in the rich part of town.
+Samtalet	The conversation
+Jag bor i den östra delen av staden.	I live in the eastern part of the city.
+Varför blir hon aldrig nöjd?	Why is she never satisfied?
+Det kommer en tår.	A tear is coming.
+Museet har öppet längre i dag.	The museum is open longer today.
+Jag tycker om mina långsamma	morgnar.	I like my slow mornings.
+Aldrig i livet!	Never in my life!
+Åland är en del av Finland.	The Åland Islands are a part of Finland.
+Mitt namn är inte engelskt!	My name is not English!
+Jag tycker inte om den här typen av	dryck.	I do not like this type of beverage.
+Jag lägger en ny order.	I am placing a new order.
+Jag hörde den andra artistens	version.	I heard the other artist's version.
+Han tycker inte om att arbeta i	grupp.	He does not like to work in groups.
+Här har vi en lista på exempel.	Here we have a list of examples.
+Jag tycker om sorgliga böcker.	I like sad books.
+Det är svårt att förlåta.	It is difficult to forgive.
+Ett val	A choice
+Sida vid sida	Side by side
+De är på samma sida.	They are on the same side.
+Ett bra resultat	A good result
+Har du egen utrustning?	Do you have your own equipment?
+Vilken utrustning behöver jag?	What equipment do I need?
+Hon tyckte om förslaget.	She liked the suggestion.
+Barn behöver mycket aktiviteter.	Children need a lot of activities.
+Har du något förslag?	Do you have a suggestion?
+Båda sidorna har fel.	Both sides are wrong.
+Många av förslagen är intressanta.	Many of the suggestions are interesting.
+Vems tur är det?	Whose turn is it?
+Vems ansvar är det?	Whose responsibility is it?
+Det är svårt i början.	It is difficult in the beginning.
+Det här är bara början.	This is only the beginning.
+Vi har en överenskommelse.	We have an agreement.
+Det är en bra överenskommelse.	It is a good agreement.
+Alla problem har en lösning.	All problems have a solution.
+Jag har ingen lösning på ditt	problem.	I have no solution to your problem.
+Det är inte en möjlig lösning.	It is not a possible solution.
+De andra alternativen är också	intressanta.	The other alternatives are also interesting.
+Ansvaret är mitt.	The responsibility is mine.
+Vi letar efter andra alternativ.	We are looking for other alternatives.
+Jag har en dröm.	I have a dream.
+Vad är din dröm?	What is your dream?
+Det är min önskan.	It is my wish.
+Ett viktigt beslut	An important decision
+Det är mitt beslut.	It is my decision.
+Slutet är sorgligt.	The ending is sad.
+Det finns inget hopp!	There is no hope!
+Det är en intressant tanke.	It is an interesting thought.
+Jag hade inte en tanke på det!	I had no thought of that!
+Hoppet är det sista som lämnar	människan.	Hope is the last thing that leaves a person.
+Effekten var mycket intressant.	The effect was very interesting.
+Jag tycker att beslutet är bra.	I think that the decision is good.
+Effekterna är inte stora.	The effects are not large.
+En union	A union
+Vi är för en union mellan de två	länderna.	We are in favor of a union between the two	countries.
+Hur många grader är det?	How many degrees is it?
+Det är tjugofem grader i vattnet.	It is twenty-five degrees in the water.
+En union mellan Sverige och Norge	A union between Sweden and Norway
+Vi har alla våra roller.	We all have our roles.
+Rösterna från andra sidan	The voices from the other side
+Syftet är att hjälpa barnen.	The purpose is to help the children.
+Beviset är att vi pratar om det.	The evidence is that we are speaking about	it.
+Jag hoppas att jag får möjligheten	att studera i Köpenhamn.	I hope that I will get the opportunity to	study in Copenhagen.
+Du har inga bevis!	You have no evidence!
+Vilket syfte har den?	Which purpose does it have?
+Vilken roll vill du ha?	Which role do you want?
+Skådespelaren fick en stor roll.	The actor got a big role.
+Jag har bra betyg.	I have good grades.
+Jag har inga dåliga betyg.	I don't have any bad grades.
+Du är på fel ställe.	You are in the wrong place.
+Min sorg är som ett mörker.	My sorrow is like a darkness.
+I ljus och mörker	In light and darkness
+Hon skriver en bok om ämnet.	She is writing a book about the subject.
+Min son går i sömnen varje natt.	My son walks in his sleep every night.
+Hon hade stora framgångar i	Tyskland.	She had great successes in Germany.
+Vi försökte utan framgång.	We tried with no success.
+Barn behöver mycket sömn.	Children need a lot of sleep.
+Det är ett känsligt ämne.	It is a sensitive subject.
+Det finns inget syfte med att göra så.	There is no purpose in doing so.
+Hans resultat på proven är alltid	dåliga.	His results on the tests are always bad.
+Ni tar inte ert ansvar för barnen.	You do not take your responsibility for the	children.
+Vad är det här för ställe?	What kind of place is this?
+Boken hamnade på fel ställe.	The book ended up in the wrong place.
+Det är en intressant aktivitet.	It is an interesting activity.
+Jag tyckte inte om slutet.	I did not like the end.
+Min önskan är att vi hittar en	lösning.	My wish is that we find a solution.
+I mörkret ser man ingenting.	In the dark one cannot see anything.
+Jag hör röster.	I hear voices.
+Chefen har alltid kontroll.	The boss is always in control.
+De ser ut att vara ett lyckligt par.	They look like a happy couple.
+Han bor i en mysig liten stad.	He lives in a cozy little town.
+Det är finare vid kusten.	It is nicer at the coast.
+Han är ännu vackrare nu.	He is even more beautiful now.
+Älgar är vanligare i Sverige än i	Tyskland.	Moose are more common in Sweden than	in Germany.
+Augusti är varmare än mars.	August is warmer than March.
+Mat är viktigare än dryck.	Food is more important than drink.
+Läser du i det här mörkret?	Are you reading in this darkness?
+Det finns bara ett alternativ.	There is only one alternative.
+Domaren studerar bevisen.	The judge is studying the evidence.
+På den östra sidan finns det fler hus.	On the east side there are more houses.
+Jag behöver åtta timmars sömn	varje natt.	I need eight hours of sleep every night.
+Beslutet fick ingen effekt.	The decision had no effect.
+Var köper man utrustningen?	Where does one buy the equipment?
+Min hatt är dyrare än din kostym.	My hat is more expensive than your suit.
+Soppan är redan kallare.	The soup is already colder.
+Han är gammal men hon är äldre.	He is old but she is older.
+Hon är äldre än hon ser ut.	She is older than she looks.
+Din idé är precis lika bra som min.	Your idea is just as good as mine.
+Jag önskar mig något intressantare	att läsa.	I wish for something more interesting to	read.
+Det är ett rikare land.	It is a richer country.
+Min mamma har en nyare mobil än	jag.	My mother has a newer cellphone than me.
+De äldre barnen läser svårare	böcker.	The older children are reading more	difficult books.
+Har ni några nyare tidningar?	Do you have any newer newspapers?
+Hon är inte lika trött som han.	She is not as tired as him.
+Vi köper billigare mat i dag.	We are buying cheaper food today.
+Det är inte din tur än!	It is not your turn yet!
+Tankarna	The thoughts
+En färgglad bild av två män och ett	spädbarn	A colorful picture of two men and a baby
+Det är för mycket smör på	smörgåsen.	There is too much butter on the sandwich.
+Hon är en lycklig kvinna.	She is a happy woman.
+Hans beskrivning är jättedålig!	His description is very bad!
+Vi öppnade lådan och tittade på	innehållet.	We opened the box and looked at the	contents.
+Vi har ett intressant samtal om	Sveriges historia.	We have an interesting conversation about	Sweden's history.
+Man har alltid ett val.	One always has a choice.
+Han tycker om att höra sin egen röst.	He likes to hear his own voice.
+Vad var hennes sista önskan?	What was her last wish?
+Deras bil är stor men min är ännu	större.	Their car is big but mine is even bigger.
+Det är en intressant möjlighet för	oss.	It is an interesting opportunity for us.
+Vad blev resultatet?	What was the result?
+Jag ser ljuset!	I see the light!
+Vår grupp reser till Norge.	Our group is traveling to Norway.
+Vilken sort?	Which kind?
+Jag tar inte order från honom!	I do not take orders from him!
+Vad är det här för design?	What design is this?
+Han körde på fel sida av vägen.	He drove on the wrong side of the road.
+Det var bara en dröm.	It was only a dream.
+Hon är den mest religiösa personen	jag känner.	She is the most religious person I know.
+Vem vet mest?	Who knows the most?
+Min bästa vän är på semester.	My best friend is on vacation.
+Hunden är människans bästa vän.	The dog is man's best friend.
+De gör Frankrikes bästa vin.	They make the best wine in France.
+Det är det mest berömda exemplet.	It isthe most famous example.
+Du är min bästa vän.	You are my best friend.
+Jag har en känsla av att du är som	jag.	I have a feeling that you are like me.
+Vi börjar från början.	We start from the beginning.
+Fjorton år senare är hon fortfarande	lika vacker.	Fourteen years later she is still just as	beautiful.
+Staden är vackrare på sommaren än	på vintern.	The city is prettier in the summer than in	the winter.
+Fri som en fågel	Free as a bird
+Jag känner mig fri.	I feel free.
+Resan är gratis.	The trip is free.
+Är ni lediga i morgon?	Are you free tomorrow?
+De är stora och starka.	They are big and strong.
+Det är oftare varmt än kallt.	It is more often hot than cold.
+Oftast lagar vi mat själva.	Usually we cook by ourselves.
+Jag är ledig i dag.	I am free today.
+Min pappa är stark som en viking.	My dad is strong as a Viking.
+Jag vill göra det oftare.	I want to do it more often.
+Jag tyckte om slutet av boken.	I liked the end of the book.
+Det är mycket aktivitet i hamnen om	kvällen.	There is a lot of activity in the harbor in the	evening.
+Det var hemskt att se min son så	ledsen.	It was terrible to see my son so sad.
+Det är oftast en ganska känslig	fråga.	It is usually a pretty sensitive question.
+Familjen äter alltid kött med potatis	och sås på fredagar.	The family always eats meat with potatoes	and sauce on Fridays.
+Han brukar oftast ha gröna kläder på	sig.	He usually wears green clothes.
+Jag tycker om starkt kaffe.	I like strong coffee.
+Är den här platsen ledig?	Is this place free?
+Den här tröjan är varm, men den där	är varmare.	This sweater is warm, but that one is	warmer.Han bor i den rika delen av staden.	He lives in the rich part of town.
+Samtalet	The conversation
+Jag bor i den östra delen av staden.	I live in the eastern part of the city.
+Varför blir hon aldrig nöjd?	Why is she never satisfied?
+Det kommer en tår.	A tear is coming.
+Museet har öppet längre i dag.	The museum is open longer today.
+Jag tycker om mina långsamma	morgnar.	I like my slow mornings.
+Aldrig i livet!	Never in my life!
+Åland är en del av Finland.	The Åland Islands are a part of Finland.
+Mitt namn är inte engelskt!	My name is not English!
+Jag tycker inte om den här typen av	dryck.	I do not like this type of beverage.
+Jag lägger en ny order.	I am placing a new order.
+Jag hörde den andra artistens	version.	I heard the other artist's version.
+Han tycker inte om att arbeta i	grupp.	He does not like to work in groups.
+Här har vi en lista på exempel.	Here we have a list of examples.
+Jag tycker om sorgliga böcker.	I like sad books.
+Det är svårt att förlåta.	It is difficult to forgive.
+Ett val	A choice
+Sida vid sida	Side by side
+De är på samma sida.	They are on the same side.
+Ett bra resultat	A good result
+Har du egen utrustning?	Do you have your own equipment?
+Vilken utrustning behöver jag?	What equipment do I need?
+Hon tyckte om förslaget.	She liked the suggestion.
+Barn behöver mycket aktiviteter.	Children need a lot of activities.
+Har du något förslag?	Do you have a suggestion?
+Båda sidorna har fel.	Both sides are wrong.
+Många av förslagen är intressanta.	Many of the suggestions are interesting.
+Vems tur är det?	Whose turn is it?
+Vems ansvar är det?	Whose responsibility is it?
+Det är svårt i början.	It is difficult in the beginning.
+Det här är bara början.	This is only the beginning.
+Vi har en överenskommelse.	We have an agreement.
+Det är en bra överenskommelse.	It is a good agreement.
+Alla problem har en lösning.	All problems have a solution.
+Jag har ingen lösning på ditt	problem.	I have no solution to your problem.
+Det är inte en möjlig lösning.	It is not a possible solution.
+De andra alternativen är också	intressanta.	The other alternatives are also interesting.
+Ansvaret är mitt.	The responsibility is mine.
+Vi letar efter andra alternativ.	We are looking for other alternatives.
+Jag har en dröm.	I have a dream.
+Vad är din dröm?	What is your dream?
+Det är min önskan.	It is my wish.
+Ett viktigt beslut	An important decision
+Det är mitt beslut.	It is my decision.
+Slutet är sorgligt.	The ending is sad.
+Det finns inget hopp!	There is no hope!
+Det är en intressant tanke.	It is an interesting thought.
+Jag hade inte en tanke på det!	I had no thought of that!
+Hoppet är det sista som lämnar	människan.	Hope is the last thing that leaves a person.
+Effekten var mycket intressant.	The effect was very interesting.
+Jag tycker att beslutet är bra.	I think that the decision is good.
+Effekterna är inte stora.	The effects are not large.
+En union	A union
+Vi är för en union mellan de två	länderna.	We are in favor of a union between the two	countries.
+Hur många grader är det?	How many degrees is it?
+Det är tjugofem grader i vattnet.	It is twenty-five degrees in the water.
+En union mellan Sverige och Norge	A union between Sweden and Norway
+Vi har alla våra roller.	We all have our roles.
+Rösterna från andra sidan	The voices from the other side
+Syftet är att hjälpa barnen.	The purpose is to help the children.
+Beviset är att vi pratar om det.	The evidence is that we are speaking about	it.
+Jag hoppas att jag får möjligheten	att studera i Köpenhamn.	I hope that I will get the opportunity to	study in Copenhagen.
+Du har inga bevis!	You have no evidence!
+Vilket syfte har den?	Which purpose does it have?
+Vilken roll vill du ha?	Which role do you want?
+Skådespelaren fick en stor roll.	The actor got a big role.
+Jag har bra betyg.	I have good grades.
+Jag har inga dåliga betyg.	I don't have any bad grades.
+Du är på fel ställe.	You are in the wrong place.
+Min sorg är som ett mörker.	My sorrow is like a darkness.
+I ljus och mörker	In light and darkness
+Hon skriver en bok om ämnet.	She is writing a book about the subject.
+Min son går i sömnen varje natt.	My son walks in his sleep every night.
+Hon hade stora framgångar i	Tyskland.	She had great successes in Germany.
+Vi försökte utan framgång.	We tried with no success.
+Barn behöver mycket sömn.	Children need a lot of sleep.
+Det är ett känsligt ämne.	It is a sensitive subject.
+Det finns inget syfte med att göra så.	There is no purpose in doing so.
+Hans resultat på proven är alltid	dåliga.	His results on the tests are always bad.
+Ni tar inte ert ansvar för barnen.	You do not take your responsibility for the	children.
+Vad är det här för ställe?	What kind of place is this?
+Boken hamnade på fel ställe.	The book ended up in the wrong place.
+Det är en intressant aktivitet.	It is an interesting activity.
+Jag tyckte inte om slutet.	I did not like the end.
+Min önskan är att vi hittar en	lösning.	My wish is that we find a solution.
+I mörkret ser man ingenting.	In the dark one cannot see anything.
+Jag hör röster.	I hear voices.
+Chefen har alltid kontroll.	The boss is always in control.
+De ser ut att vara ett lyckligt par.	They look like a happy couple.
+Han bor i en mysig liten stad.	He lives in a cozy little town.
+Det är finare vid kusten.	It is nicer at the coast.
+Han är ännu vackrare nu.	He is even more beautiful now.
+Älgar är vanligare i Sverige än i	Tyskland.	Moose are more common in Sweden than	in Germany.
+Augusti är varmare än mars.	August is warmer than March.
+Mat är viktigare än dryck.	Food is more important than drink.
+Läser du i det här mörkret?	Are you reading in this darkness?
+Det finns bara ett alternativ.	There is only one alternative.
+Domaren studerar bevisen.	The judge is studying the evidence.
+På den östra sidan finns det fler hus.	On the east side there are more houses.
+Jag behöver åtta timmars sömn	varje natt.	I need eight hours of sleep every night.
+Beslutet fick ingen effekt.	The decision had no effect.
+Var köper man utrustningen?	Where does one buy the equipment?
+Min hatt är dyrare än din kostym.	My hat is more expensive than your suit.
+Soppan är redan kallare.	The soup is already colder.
+Han är gammal men hon är äldre.	He is old but she is older.
+Hon är äldre än hon ser ut.	She is older than she looks.
+Din idé är precis lika bra som min.	Your idea is just as good as mine.
+Jag önskar mig något intressantare	att läsa.	I wish for something more interesting to	read.
+Det är ett rikare land.	It is a richer country.
+Min mamma har en nyare mobil än	jag.	My mother has a newer cellphone than me.
+De äldre barnen läser svårare	böcker.	The older children are reading more	difficult books.
+Har ni några nyare tidningar?	Do you have any newer newspapers?
+Hon är inte lika trött som han.	She is not as tired as him.
+Vi köper billigare mat i dag.	We are buying cheaper food today.
+Det är inte din tur än!	It is not your turn yet!
+Tankarna	The thoughts
+En färgglad bild av två män och ett	spädbarn	A colorful picture of two men and a baby
+Det är för mycket smör på	smörgåsen.	There is too much butter on the sandwich.
+Hon är en lycklig kvinna.	She is a happy woman.
+Hans beskrivning är jättedålig!	His description is very bad!
+Vi öppnade lådan och tittade på	innehållet.	We opened the box and looked at the	contents.
+Vi har ett intressant samtal om	Sveriges historia.	We have an interesting conversation about	Sweden's history.
+Man har alltid ett val.	One always has a choice.
+Han tycker om att höra sin egen röst.	He likes to hear his own voice.
+Vad var hennes sista önskan?	What was her last wish?
+Deras bil är stor men min är ännu	större.	Their car is big but mine is even bigger.
+Det är en intressant möjlighet för	oss.	It is an interesting opportunity for us.
+Vad blev resultatet?	What was the result?
+Jag ser ljuset!	I see the light!
+Vår grupp reser till Norge.	Our group is traveling to Norway.
+Vilken sort?	Which kind?
+Jag tar inte order från honom!	I do not take orders from him!
+Vad är det här för design?	What design is this?
+Han körde på fel sida av vägen.	He drove on the wrong side of the road.
+Det var bara en dröm.	It was only a dream.
+Hon är den mest religiösa personen	jag känner.	She is the most religious person I know.
+Vem vet mest?	Who knows the most?
+Min bästa vän är på semester.	My best friend is on vacation.
+Hunden är människans bästa vän.	The dog is man's best friend.
+De gör Frankrikes bästa vin.	They make the best wine in France.
+Det är det mest berömda exemplet.	It isthe most famous example.
+Du är min bästa vän.	You are my best friend.
+Jag har en känsla av att du är som	jag.	I have a feeling that you are like me.
+Vi börjar från början.	We start from the beginning.
+Fjorton år senare är hon fortfarande	lika vacker.	Fourteen years later she is still just as	beautiful.
+Staden är vackrare på sommaren än	på vintern.	The city is prettier in the summer than in	the winter.
+Fri som en fågel	Free as a bird
+Jag känner mig fri.	I feel free.
+Resan är gratis.	The trip is free.
+Är ni lediga i morgon?	Are you free tomorrow?
+De är stora och starka.	They are big and strong.
+Det är oftare varmt än kallt.	It is more often hot than cold.
+Oftast lagar vi mat själva.	Usually we cook by ourselves.
+Jag är ledig i dag.	I am free today.
+Min pappa är stark som en viking.	My dad is strong as a Viking.
+Jag vill göra det oftare.	I want to do it more often.
+Jag tyckte om slutet av boken.	I liked the end of the book.
+Det är mycket aktivitet i hamnen om	kvällen.	There is a lot of activity in the harbor in the	evening.
+Det var hemskt att se min son så	ledsen.	It was terrible to see my son so sad.
+Det är oftast en ganska känslig	fråga.	It is usually a pretty sensitive question.
+Familjen äter alltid kött med potatis	och sås på fredagar.	The family always eats meat with potatoes	and sauce on Fridays.
+Han brukar oftast ha gröna kläder på	sig.	He usually wears green clothes.
+Jag tycker om starkt kaffe.	I like strong coffee.
+Är den här platsen ledig?	Is this place free?
 Den här tröjan är varm, men den där	är varmare.	This sweater is warm, but that one is	warmer.

@@ -633,4 +633,1274 @@ Handduken torkar inte!	The towel is not drying!
 Vem väntar ni på?	Who are you waiting for?
 Jag väntar på dig.	I am waiting for you.
 Vad tillverkar de?	What do they produce?
+De blandar vin med vatten.	They are mixing wine with water.Du äter min hunds mat.	You are eating my dog's food.
+Ett barn, flera barn	A child, several children
+Flickorna läser breven.	The girls are reading the letters.
+Barnen äter glass.	The children are eating ice cream.
+Kvinnorna har breven.	The women have the letters.
+Riset	The rice
+Mannen har brevet.	The man has the letter.
+Ert barn läser en tidning.	Your child is reading a newspaper.
+De älskar era barn.	They love your children.
+Vin är en dryck.	Wine is a beverage.
+Ett glas vatten	A glass of water
+Jag äter äpplet.	I am eating the apple.
+Barnet läser en bok.	The child is reading a book.
+Jag är vegetarian.	I am a vegetarian.
+Pojkarna läser breven.	The boys are reading the letters.
+Jag läser mina böcker.	I am reading my books.
+Vårt äpple	Our apple
+Djuren dricker vatten.	The animals are drinking water.
+Kvinnan har tidningen.	The woman has the newspaper.
+Katten äter fisken.	The cat is eating the fish.
+Nötköttet	The beef
+Han tycker om hennes hundar.	He likes her dogs.
+Kockar har knivar.	Cooks have knives.
+Era katter dricker vatten.	Your cats are drinking water.
+Våra barns böcker	Our children's books
+Ett djur, flera djur	An animal, several animals
+Hon älskar mig inte.	She does not love me.
+Djuren	The animals
+Männen läser böckerna.	The men are reading the books.
+Kvinnan har på sig en klänning.	The woman is wearing a dress.
+Skon är din.	The shoe is yours.
+Han har en tröja.	He has a sweater.
+Män tycker om kläder.	Men like clothes.
+Kvinnan har på sig en kostym.	The woman is wearing a suit.
+Har du en knapp?	Do you have a button?
+Rocken har flera fickor.	The coat has several pockets.
+En skjorta, flera skjortor	A shirt, several shirts
+Barnens hundar	The children's dogs
+Slipsen är hans.	The tie is his.
+Kvinnorna har på sig klänningar.	The women are wearing dresses.
+Barnen läser breven.	The children are reading the letters.
+Jag tycker om hennes katt.	I like her cat.
+Hans hund äter fisk.	His dog is eating fish.
+Kjolen	The skirt
+Kvinnan älskar sina barn.	The woman loves her children.
+Jag älskar kläderna.	I love the clothes.
+Han tycker om er.	He likes you.
+Hon läser hans brev.	She is reading his letter.
+Hon tycker om tröjan.	She likes the sweater.
+Skorna är mina.	The shoes are mine.
+Pojken har en skjorta.	The boy has a shirt.
+Du har på dig min tröja.	You are wearing my sweater.
+Det är min strumpa.	It is my sock.
+Kvinnan tycker om skärpet.	The woman likes the belt.
+Det regnar och barnen springer.	It is raining and the children are running.
+Jag hör dig.	I hear you.
+De sover.	They are sleeping.
+De åker.	They are going.
+Ser du smörgåsarna?	Do you see the sandwiches?
+Pojken springer och sjunger.	The boy is running and singing.
+Betalar du?	Are you paying?
+Björnen hittar mat.	The bear finds food.
+Hon vill ha kläderna.	She wants the clothes.
+De gråter.	They are crying.
+Hon leker.	She is playing.
+Han lyssnar.	Heiis listening.
+De visar sina skor.	They are showing their shoes.
+Lagar du mat?	Are you cooking?
+Mannen lagar mat.	The man is cooking.
+Ser de oss?	Do they see us?
+Jag lagar mat.	I am cooking.
+Jag ritar ett äpple.	Il am drawing an apple.
+Hon har på sig strumpor.	She is wearing socks.
+Skjortan har knappar.	The shirt has buttons.
+Mannen har flera skärp.	The man has several belts.
+Flickan har en jacka.	The girl has a jacket.
+Jag älskar jackan.	I love the jacket.
+De har på sig kostymerna.	They are wearing the suits.
+Hon har skor på sig.	She is wearing shoes.
+Hon skrattar.	She is laughing.
+Flickan visar sin bok.	The girl is showing her book.
+Det regnar.	It is raining.
+Säljer du gafflar?	Do you sell forks?
+Mannen och kvinnan pratar.	The man and the woman are speaking.
+De lyssnar inte.	They are not listening.
+Flickan ritar en älg.	The girl is drawing a moose.
+Ser du mig?	Do you see me?
+Det finns bröd.	There is bread.
+Du väljer hunden.	You choose the dog.
+Jag gråter inte.	I am not crying.
+Jag vill ha en halsduk.	I want a scarf.
+De använder sina strumpor.	They are using their socks.
+Vi stöttar dig.	We support you.
+Det är mitt skärp.	It is my belt.
+Jag vill ha en smörgås.	I want a sandwich.
+Ett vitt vin	A white wine
+Den svarta spindeln	The black spider
+Pojken har ett gult äpple.	The boy has a yellow apple.
+Han har de gula byxorna.	He has the yellow pants.
+De rosa byxorna är hennes.	The pink pants are hers.
+Mannen använder sin tallrik.	The man is using his plate.
+Vargen äter den svarta ankan.	The wolf is eating the black duck.
+De gula äpplena är våra.	The yellow apples are ours.
+De gula tallrikarna	The yellow plates
+Vart simmar ankan?	Where is the duck swimming?
+Har du ingen katt?	Don't you have a cat?
+Jag tycker inte om de bruna äpplena.	I do not like the brown apples.
+Mitt ägg är blått.	My egg is blue.
+Den lila klänningen är min.	The purple dress is mine.
+Varför gör du det?	Why are you doing it?
+Jag tycker om de gula fåglarna.	I like the yellow birds.
+Finns det ingen mat?	Isn't there any food?
+Varför skrattar du åt mig?	Why are you laughing at me?
+Vad skrattar du åt?	What are you laughing at?
+Enligt honom är skärpet grönt.	According to him, the belt is green.
+Enligt henne är hästen vit.	According to her, the horse is white.
+Hur många böcker läser hon?	How many books is she reading?
+Vilka strumpor är hennes?	Which socks are hers?
+Kvinnan vet var boken är.	The woman knows where the book is.
+Flickan frågar och kvinnan svarar.	The girl is asking and the woman is	answering.
+Vet du var vargen är?	Do you know where the wolf is?
+Har du inget svar?	Don't you have an answer?
+Finns det ingen sked?	Isn't there any spoon?
+Har de inga tallrikar?	Don't they have any plates?
+Djur arbetar inte.	Animals do not work.
+Kvinnan sover hos mannen.	The woman is sleeping at the man's place.
+Jag väljer åt dig.	I am choosing for you.
+En av hundarna springer.	One of the dogs is running.
+Tallriken är mellan dig och mig.	The plate is between you and me.
+Vem svarar?	Who is answering?
+Vilka smörgåsar är våra?	Which sandwiches are ours?
+Pojken frågar flickan.	The boy is asking the girl.
+Hon hör mig inte.	She does not hear me.
+Vart springer hon?	Where is she running?
+Förstår du?	Do you understand?
+Vem vet?	Who knows?
+Jag dricker svart kaffe.	I am drinking black coffee.
+Vi går genom restaurangen.	We are walking through the restaurant.
+Hon är hos mig.	She is at my place.
+Jag sitter bakom dig.	I am sitting behind you.
+Vart går du?	Where are you going?
+Jo, det gör jag.	Yes, I do.
+Varför svarar du inte?	Why aren't you answering?
+Vi går på restaurang.	We are going to a restaurant.
+Mannen står bredvid kvinnan.	The man is standing next to the woman.
+Vi åker framåt.	We are going forward.
+Finns det inget kaffe?!	Is there no coffee?!
+Vad har du i fickorna?	What do you have in your pockets?
+Svaret är nej.	The answer is no.
+Har du inga frågor?	Don't you have any questions?
+Över barnen flyger fåglarna.	Over the children, the birds are flying.
+Jag står bakom dig.	I am standing behind you.
+Jag går framåt.	I am walking forward.
+Hon kommer när som helst.	She is coming at any time.
+Jag vet inte om han vill.	I do not know if he wants to.
+Vi äter innan vi går.	We eat before we walk.
+Han går inte utan springer.	He is not walking but running.
+Han lagar mat medan vi sover.	He cooks while we sleep.
+Han älskar mig eftersom jag älskar	honom.	He loves me because I love him.
+Jag lyssnar därför att hon pratar.	I am listening because she is speaking.
+Hunden tycker om dig därför att du	har mat.	The dog likes you because you have food.
+Vargen vet att björnen sover.	The wolf knows that the bear is sleeping.
+Jag tycker om dig, men jag älskar	henne.	I like you, but I love her.
+Hon använder kläderna innan hon	säljer dem.	She uses the clothes before she sells	them.
+Hon sitter framför mig.	Sheiis sitting in front of me.
+Kniven är vid glaset.	The knife is by the glass.
+Hunden står bredvid hästen.	The dog is standing next to the horse.
+Jag äter om du dricker.	I eat if you drink.
+Han skriver att han älskar henne.	He is writing that he loves her.
+Vi har svaren.	We have the answers.
+Flickan som äter ett äpple tycker om	hästar.	The girl who is eating an apple likes	horses.
+Mitt svar är ja.	My answer is yes.
+Du vet att jag älskar dig.	You know that I love you.
+På eftermiddagen	In the afternoon
+I årtionden	For decades
+Vi åker om en timme.	We are going in an hour.
+Jag simmar inte förrän på tisdag.	Il am not swimming until Tuesday.
+Hon är årtiondets kvinna.	She is the woman of the decade.
+Vid vilken tid?	At what time?
+Vad gör din hund?	What is your dog doing?
+De rosa byxorna är hans.	The pink pants are his.
+Ja, det finns kaffe.	Yes, there is coffee.
+Kommer du i eftermiddag?	Are you coming this afternoon?
+Har du tid?	Do you have time?
+Det är kväll.	It is evening.
+Jag sover i flera timmar.	I am sleeping for several hours.
+Vilken dag är det?	What day is it?
+På fredag kommer brevet.	On Friday the letter is coming.
+Det är måndag i dag.	It is Monday today.
+De äter på nätterna.	They eat at night.
+Nätterna är våra.	The nights are ours.
+Hon äter frukost på morgonen.	She eats breakfast in the morning.
+Sjunger han på tisdagar?	Does he sing on Tuesdays?
+Det tar en vecka.	It takes a week.
+De kommer i helgen.	They are coming this weekend.
+Vad är hennes ålder?	What is her age?
+De kommer på torsdag.	They are coming on Thursday.
+Torsdag kommer före fredag.	Thursday comes before Friday.
+Hans kostym kommer om en månad.	His suit is coming in a month.
+Är det lördag eller söndag i dag?	Is it Saturday or Sunday today?
+År och månader	Years and months
+Februari är en av årets månader.	February is one of the months of the year.
+Varför tycker du så mycket om juni?	Why do you like June so much?
+Vad är dagens datum?	What is today's date?
+Vad är en vardag?	What is a workday?
+Juli är en månad på året.	July is a month of the year.
+I september sjunger jag mycket.	In September I sing a lot.
+På midsommar äter vi mycket mat.	On Midsummer we eat a lot of food.
+Årstiderna är vår, sommar, höst och	vinter.	The seasons are spring, summer, fall and	winter.
+En period	A period
+När är du född?	When were you born?
+Många århundraden	Many centuries
+Vi läser en stund.	We are reading for a while.
+Minuter och sekunder	Minutes and seconds
+Det tar ett årtionde.	It takes a decade.
+Flera perioder	Several periods
+När är festen?	When is the party?
+Ett dygn	A day
+Ett halvår	Half a year
+Tills du hittar den.	Until you find it.
+Det tar generationer.	It takes generations.
+De kommer om en kvart.	They are coming in fifteen minutes.
+Jag läser boken på en kvart.	I am reading the book in fifteen minutes.
+Jag älskar inte dig, utan honom.	I do not love you, but him.
+När jag lagar mat äter hon.	When I cook, she eats.
+Jag kommer om en stund.	I am coming in a while.
+Ni är välkomna till oss i oktober.	You are welcome to our place in October.
+Det är han som läser min bok.	He is the one who is reading my book.
+Kommer juni före maj?	Does June come before May?
+Vi äter pasta i kväll.	We are eating pasta tonight.
+Om en dag	In a day
+Tidningen kommer på måndagar och	onsdagar.	The newspaper comes on Mondays and	Wednesdays.
+För ögonblicket arbetar jag.	At the moment I am working.
+Ett dygn?	A day?
+Om ett ögonblick!	In a moment!
+Vem är din farbror?	Who is your uncle?
+En förälder är ett barns mamma	eller pappa.	A parent is a child's mom or dad.
+Jag har många kusiner.	I have many cousins.
+Min svärfar är min frus far och min	far är hennes svärfar.	My father-in-law is my wife's father, and	my father is her father-in-law.
+Min faster är min pappas syster.	My aunt is my dad's sister.
+Jag älskar min moster.	I love my aunt.
+Min morbror är min mors bror.	My uncle is my mother's brother.
+Min pappas bror är min farbror.	My dad's brother is my uncle.
+Mina systrars barn	My sisters' children
+Barnen leker i en kvart.	The children play for fifteen minutes.
+Ett ögonblick!	One moment!
+Vad heter din tvilling?	What is your twin's name?
+När är bröllopet?	When is the wedding?
+Hennes föräldrar har en restaurang.	Her parents have a restaurant.
+Vi äter om en stund.	We are eating in a while.
+Ett århundrade	A century
+Nätterna är svarta.	The nights are black.
+Jag skriver brev på morgonen.	I write letters in the morning.
+Min moster har många döttrar.	My aunt has many daughters.
+Farmor läser tidningen.	Grandmother is reading the newspaper.
+Min moster är min mors syster.	My aunt is my mother's sister.
+Jag har många fastrar.	I have many aunts.
+Är det inte torsdag i dag?	Isn't it Thursday today?
+Jag talar om din generation.	I am talking about your generation.
+Vi simmar på somrarna.	We swim in the summer.
+Jag går till läkaren på torsdagar.	I go to the doctor on Thursdays.
+Varför arbetar du som författare?	Why do you work as a writer?
+Min bror är modell.	My brother is a model.
+Är din mamma på jobbet?	Is your mom at work?
+Personalen på restaurangen	The staff at the restaurant
+Han är på arbetet.	He is at work.
+Min mamma är polis.	My mom is a police officer.
+Min farfar är advokat.	My grandfather is a lawyer.
+Hennes moster är tolk.	Her aunt is an interpreter.
+Han är hennes sekreterare.	He is her secretary.
+Vem har flera sekreterare?	Who has several secretaries?
+Min karriär som artist	My career as an artist
+Vilken karriär!	What a career!
+Jag är domare.	Il am a judge.
+Vakterna kommer!	The guards are coming!
+Min syster är brandman.	My sister is a firefighter.
+Skådespelarna ser oss inte.	The actors do not see us.
+De använder en professionell	modell.	They are using a professional model.
+Skådespelerskorna äter på	restaurangen.	The actresses are eating at the restaurant.
+Artistens vakter springer efter	kvinnan.	The artist's guards are running after the	woman.
+Han är präst.	Heiis a priest.
+Tycker du om ditt yrke?	Do you like your profession?
+Jag ser inga soldater i dag.	I don't see any soldiers today.
+Arkitekten skriver ett brev.	The architect is writing a letter.
+Soldaten vet vilka de är.	The soldier knows who they are.
+Jag äter hos honom.	I am eating at his place.
+Vilken skjorta är blå?	Which shirt is blue?
+Vems hund är det?	Whose dog is it?
+Mannen skriver datumet på brevet.	The man is writing the date on the letter.
+Jag är född på sommaren.	I was born in the summer.
+Sommar och vår är årstider.	Summer and spring are seasons.
+Det regnar mycket i november.	It rains a lot in November.
+Vi arbetar inte på lördagar.	We do not work on Saturdays.
+Midsommar är i juni.	Midsummer is in June.
+om ett halvår	in half a year
+Vakten	The guard
+Är hennes föräldrar författare?	Are her parents writers?
+Våra pappor är bröder.	Our dads are brothers.
+Systrarna sjunger.	The sisters are singing.
+Jag älskar mitt yrke.	I love my profession.
+Jag skriver århundradets bok.	I am writing the book of the century.
+Vi äter mycket mat i december.	We eat a lot of food in December.
+Han har en vit tröja på sig.	He is wearing a white sweater.
+Inte förrän i morgon.	Not until tomorrow.
+Hur många arbetare har ni?	How many workers do you have?
+Vi är trötta!	We are tired!
+Ett litet barn	A small child
+En liten kaffe, tack!	One small coffee, please!
+Björnen är ett stort djur.	The bear is a big animal.
+Den långe mannen är min chef.	The tall man is my boss.
+Min pappa är en stor man.	My father is a big man.
+Hennes syster är lång.	Her sister is tall.
+Kallt kaffe	Cold coffee
+Våra egna handskar	Our own gloves
+Hon har inga egna barn.	She has no children of her own.
+Kaffet är inte varmt.	The coffee is not warm.
+Är det din egen hund?	Is it your own dog?
+Hennes bröder är långa.	Her brothers are tall.
+Restaurangerna är öppna.	The restaurants are open.
+En ren ren	A clean reindeer
+Du är inte gammal.	You are not old.
+Du har en ny klänning.	You have a new dress.
+Mina föräldrar är gamla.	My parents are old.
+Det är ett smutsigt jobb.	It is a dirty job.
+Vi äter inte gammalt bröd.	We are not eating old bread.
+Har hon inga skor på sig?	Isn't she wearing any shoes?
+I morgon är det helg.	Tomorrow it is the weekend.
+Vilket datum är det i dag?	What date is it today?
+Kostymerna är dyra.	The suits are expensive.
+Barnen är tvåspråkiga.	The children are bilingual.
+Vad är du rädd för?	What are you afraid of?
+Har du det bekvämt?	Are you comfortable?
+En värdefull bok	A valuable book
+Vita älgar är ovanliga.	White moose are unusual.
+Det är en vanlig fråga.	It is a normal question.
+De är rädda för vargar.	They are afraid of wolves.
+Hon har sina vanliga kläder på sig.	She is wearing her normal clothes.
+Ett långt brev.	A long letter.
+Tiden med barnen är värdefull.	The time with the children is valuable.
+Har du de gamla smutsiga	strumporna?	Do you have the old dirty socks?
+I sista sekunden	At the last second
+På sommaren är dagarna långa.	In the summer, the days are long.
+En arbetare kommer.	A worker is coming.
+Frukten ligger på tallriken.	The fruit is on the plate.
+Älgen tittar på pojken.	The moose is looking at the boy.
+Vi bjuder henne på lunch.	We are treating her to lunch.
+Jag hinner inte i dag.	I do not have enough time today.
+Nej, jag hinner inte.	No, I do not have enough time.
+Stämmer det?	Is that correct?
+Du känner mig!	You know me!
+Jag orkar inte!	I do not have the energy!
+Han kysser mig.	He is kissing me.
+Han får ett svar.	He is getting an answer.
+Kvinnan får en häst av sin man.	The woman is getting a horse from her	husband.
+Vad önskar du dig?	What are you wishing for?
+De lär honom engelska.	They are teaching him English.
+Hon dör.	She is dying.
+Räcker det?	Is it enough?
+Jag tror dig!	I believe you!
+Hon passerar.	She is passing by.
+Jag tackar dig.	I thank you.
+Vad letar ni efter?	What are you looking for?
+Han följer efter mig.	He is following me.
+Fryser ni inte?	Aren't you freezing?
+Vilar han?	Is he resting?
+Vem börjar?	Who is starting?
+Vad säger du?	What are you saying?
+Hon kramar mig.	She is hugging me.
+Ja, jag stannar.	Yes, I am staying.
+Jag litar på dig!	I trust you!
+Maten verkar god!	The food seems tasty!
+Jag undrar varför.	I wonder why.
+Vad får jag för det?	What do I get for it?
+De har öppet på söndagar.	They are open on Sundays.
+Brevet är till vänster om tidningen.	The letter is to the left of the newspaper.
+Han har skjortor i olika färger.	He has shirts in different colors.
+Det är den sista dagen.	It is the last day.
+Boken är konstig.	The book is strange.
+Vilken historisk period läser du om?	What historical period are you reading	about?
+Hon har sin fina klänning på sig.	She is wearing her nice dress.
+Han känner henne.	He knows her.
+Långt bort	Far away
+Hon äter inte frukt, inte ens äpplen.	She does not eat fruit, not even apples.
+Vad gör han för närvarande?	What is he doing currently?
+Till och med jag tycker om henne.	Even I like her.
+Vi hinner inte!	We do not have enough time!
+Arbetarna litar inte på chefen.	The workers do not trust the boss.
+Jag undrar var hon är.	I wonder where she is.
+Det verkar som att kostymen är	orange.	It seems like the suit is orange.
+Varför lär du honom svenska?	Why are you teaching him Swedish?
+Varför ringer hon mig inte?	Why does she not call me?
+Jag önskar mig en hund.	I am wishing for a dog.
+Det är inte nödvändigtvis en dyr	kostym.	It is not necessarily an expensive suit.
+Han talar inte heller engelska.	He does not speak English either.
+Det är inte nödvändigtvis hans	mamma.	It is not necessarily his mother.
+Hennes klänning är verkligen	vacker.	Her dress is really beautiful.
+Nu är det för sent!	Now it is too late!
+Jag vill också ha ett äpple.	I also want an apple.
+Maten räcker inte.	There is not enough food.
+Vi tittar på kaffet.	We are looking at the coffee.
+Hur är det möjligt?	How is it possible?
+En viktig fråga.	An important question.
+Hon har en dålig dag.	She is having a bad day.
+Nej, vi är inte dåliga!	No, we are not bad!
+Min bror kommer sist.	My brother is coming last.
+Han har fel.	He is wrong.
+Vad är det för fel på dig?	What is wrong with you?
+Det är precis samma färg.	It is exactly the same color.
+Jag läser tidningen sent på kvällen.	I read the newspaper late in the evening.
+De är på stranden.	They are at the beach.
+Var är köket?	Where is the kitchen?
+Mitt badrum är dåligt.	My bathroom is bad.
+Vårt hotell ligger vid stranden.	Our hotel is by the beach.
+Ligger hotellet vid flygplatsen?	Is the hotel by the airport?
+Välkommen till mitt land!	Welcome to my country!
+Jag simmar längs stranden.	Il am swimming along the beach.
+Hon är chef för avdelningen.	She is the boss of the department.
+Vi simmar i sjön.	We are swimming in the lake.
+Staden ligger på en ö.	The city is located on an island.
+Det finns många sjöar i Sverige.	There are many lakes in Sweden.
+Har ni en bastu?	Do you have a sauna?
+Museet är inte öppet än.	The museum is not open yet.
+Vi bor i dalen.	We live in the valley.
+Byggnaden är tom.	The building is empty.
+Hotellet ligger vid kusten.	The hotel is located by the coast.
+Landet har långa kuster.	The country has long coasts.
+The movie theater
+Palatset ligger utanför huvudstaden.	The palace is located outside the capital.
+En liten hamn	A small port
+Skådespelerskan köper ett palats	med många torn.	The actress is buying a palace with many	towers.
+Ett område i norr	An area in the north
+Finns det inga toaletter här?	Aren't there any toilets here?
+Toaletterna är där borta.	The toilets are over there.
+Till och med farfar sjunger.	Even grandfather is singing.
+Han skriver fortfarande brev till mig.	He still writes letters to me.
+Han sjunger inte särskilt bra.	He does not sing very well.
+Han ser fortfarande inte gammal ut.	He still does not look old.
+Jag går på vägen med min hund.	I am walking on the road with my dog.
+Ja, det gör vi alltid.	Yes, we always do that.
+Åker du dit i kväll?	Are you going there tonight?
+Det regnar inte mycket i juli.	It does not rain a lot in July.
+Det står en korg på bordet.	There is a basket on the table.
+Har vi tillräckligt med socker?	Do we have enough sugar?
+Barn bor i allmänhet hos sina	föräldrar.	Children generally live with their parents.
+Han är egentligen inte min bror.	He is not actually my brother.
+Här finns det mycket mat.	Here there is a lot of food.
+Var har ni kastruller?	Where do you keep saucepans?
+Vad håller du på med?	What are you doing?
+Han tror mig inte.	He does not believe me.
+Älgar är i allmänhet vegetarianer.	Moose are generally vegetarians.
+Batteriet är för gammalt.	The battery is too old.
+De säljer många olika garderober.	They sell many different closets.
+Har ni snören?	Do you have strings?
+Har du en sax?	Do you have a pair of scissors?
+Stannar du på en kopp te?	Are you staying for a cup of tea?
+Det tar bara en minut.	It only takes a minute.
+Det tar ungefär en timme.	It takes approximately one hour.
+Vi sitter på marken.	We are sitting on the ground.
+Allén är vackert gul på hösten.	The alley is beautifully yellow in the fall.
+Den står på min hylla.	It is on my shelf.
+Det är en väldigt dyr maskin.	It is a very expensive machine.
+Väggarna är gröna.	The walls are green.
+Väskan har hjul.	The bag has wheels.
+Duken ligger på bordet.	The tablecloth is on the table.
+Röda tak	Red roofs
+Hon tvättar sig med tvål och vatten.	She is washing herself with soap and	water.
+Han tar ett föremål från bordet.	He is taking an object from the table.
+Skåpet är öppet.	The cabinet is open.
+Hon lyssnar aldrig på radio.	She never listens to the radio.
+Fönstret är öppet.	The window is open.
+Är lamporna nya?	Are the lamps new?
+Motorn är effektiv.	The engine is efficient.
+Pratar vi om samma sak?	Are we talking about the same thing?
+Jag har ingen kudde.	I don't have a pillow.
+Hon talar till och med svenska.	She even speaks Swedish.
+Det är ett svart pulver.	It is a black powder.
+Maten är för salt.	The food is too salty.
+Jag litar egentligen inte på honom.	I do not actually trust him.
+Äntligen ser du mig!	Finally you see me!
+Pojken är rädd för garderoben.	The boy is afraid of the closet.
+Det är en allvarlig fråga.	It is a serious question.
+En viktig marknad	An important market
+Han dricker ändå aldrig kaffe.	He never drinks coffee anyway.
+Vattnet i kastrullen är varmt.	The water in the saucepan is warm.
+Vi behöver mer tyg.	We need more cloth.
+Vi bor här.	We live here.
+Det här är kommittén.	This is the committee.
+Vi åker hem till byn.	We are going home to the village.
+Mitt förhållande till min bror är inte	så bra.	My relationship with my brother is not so	good.
+Barnen ritar på marken.	The children are drawing on the ground.
+Han ritar en gul stol.	He is drawing a yellow chair.
+Min mormor har många klockor.	My grandmother has a lot of clocks.
+Jag tittar på tv.	I am watching TV.
+Dörren är inte ens öppen.	The door is not even open.
+Han har bara en handduk på sig.	He is only wearing a towel.
+Kastrullerna står på bordet.	The saucepans are on the table.
+Torsdag är en dag i veckan.	Thursday is a day of the week.
+En tjej och en kille sjunger	tillsammans.	A girl and a guy are singing together.
+Hans syster sitter i fängelse.	His sister is in prison.
+I västra hörnet	In the western corner
+På lördagar tittar jag alltid på tv.	On Saturdays I always watch TV.
+Böckerna ligger i min väns gröna	resväska.	The books are in my friend's green	suitcase.
+Hon kommer på besök.	She is coming for a visit.
+Norden	The Nordic countries
+Han är på semester i Finland.	He is on vacation in Finland.
+En biljett, tack!	A ticket, please!
+Nu börjar äventyret!	Now the adventure starts!
+Vi tar nästa plan till Finland.	We are taking the next plane to Finland.
+De pratar om sina resor till Sverige.	They are talking about their trips to	Sweden.
+Det finns flera finlandssvenska	städer i Finland.	There are several Finno-Swedish cities in	Finland.
+De kör runt i staden.	They are driving around town.
+Vi visar en turist vägen till hotellet.	We are showing a tourist the way to the	hotel.
+Jag åker tunnelbana till jobbet.	I go by subway to work.
+Jag ligger vid poolen hela dagen.	I lie by the pool the whole day.
+Spädbarnet är en dag gammalt.	The baby is a day old.
+Lakanet är vitt.	The sheet is white.
+De gamla leksakerna är vackra.	The old toys are beautiful.
+Varför ligger sakerna på golvet?	Why are the things lying on the floor?
+Barnen har många leksaker.	The children have many toys.
+Ett rött skåp	A red cabinet
+Ett stort hjul	A big wheel
+Hjulen är vita.	The wheels are white.
+Han sjunger varje dag.	He sings every day.
+Alla utom kocken äter.	Everyone except the cook is eating.
+Vem som helst	Anyone
+De andra kvinnorna	The other women
+Hur tvättar ni de andra mattorna?	How do you wash the other carpets?
+Det är ett värdefullt föremål.	It is a valuable object.
+Den är i det andra skåpet.	It is in the other cabinet.
+Känner ni varandra?	Do you know each other?
+Vi köper ett annat bord.	We are buying another table.
+Finns det inget annat snöre?	Is there no other string?
+Han bor i en annan stad.	He lives in another city.
+Jag vill ha ett sådant paraply.	I want an umbrella like that.
+Ingen vet.	Nobody knows.
+Förra veckan	Last week
+Känner du hans förra pojkvän?	Do you know his last boyfriend?
+Förra veckan eller förrförra veckan?	Last week or the week before last week?
+ingendera av dem	neither of them
+Ingendera av bröderna lyssnar på	mig.	Neither of the brothers is listening to me.
+Vilken vill du ha? Ingendera.	Which do you want? Neither.
+Vem svarar på en sådan fråga?	Who answers a question like that?
+Hallå, är det någon där?	Hello, is there someone there?
+Vi ser sällan sådana stränder.	We rarely see beaches like that.
+Man behöver alltid vatten.	One always needs water.
+Hur kommer man till stranden?	How does one get to the beach?
+Vem som helst som arbetar med	barn vet vad jag pratar om.	Anyone who works with children knows	what I am talking about.
+Dessa människor behöver mat och	vatten.	These people need food and water.
+Jag kommer på besök.	I am coming for a visit.
+De tar båten till Amerika.	They are taking the boat to America.
+Din pappa ser ut som en turist.	Your dad looks like a tourist.
+Min familj bor söder om staden.	My family lives south of the city.
+De reser runt i landet.	They are traveling around the country.
+Min man är finlandssvensk.	My husband is a Finland-Swede.
+Hon arbetar på en annan avdelning.	She works in another department.
+Jag är på semester!	I am on vacation!
+Det här är min fru.	This is my wife.
+Pengarna ligger på bordet.	The money is on the table.
+Varför ligger du på marken?	Why are you lying on the ground?
+Vems är den där boken?	Whose is that book?
+Vad gör denna kvinna?	What is this woman doing?
+Vi känner inte varandra.	We do not know each other.
+Letar du efter någonting?	Are you looking for something?
+Det är antingen en matta eller en	handduk.	It is either a rug or a towel.
+De gör det själva.	They are doing it themselves.
+Ett antal år	A number of years
+Jag har bara fyra stycken.	I only have four of them.
+Min morfar har tio barnbarn.	My grandfather has ten grandchildren.
+Ett stort antal människor.	A large number of people.
+Andra veckan i maj	The second week in May
+De första gångerna	The first times
+Fem stycken, tack!	Five of them, please!
+Tredje generationen	The third generation
+Mängden olja är viktig.	The amount of oil is important.
+Antalet soldater är stort.	The number of soldiers is large.
+De betalar tio miljoner för hotellet.	They are paying ten million for the hotel.
+Summan	The sum
+Nu är klockan halv fem.	Now, it is half past four.
+Vi arbetar fyrtio timmar per vecka.	We work forty hours per week.
+Det kostar för mycket!	It costs too much!
+Fjärde veckan i maj	The fourth week in May
+Femte hjulet	The fifth wheel
+Vad gör du den sjätte juni?	What are you doing the sixth of June?
+Jag vill ha dubbelt så mycket.	I want twice as much.
+Juni är årets sjätte månad.	June is the sixth month of the year.
+Den sjunde dagen	The seventh day
+Den nionde april	The ninth of April
+Nittonhundratalet	The twentieth century
+Jag arbetar sammanlagt tre veckor.	I work a total of three weeks.
+Vi frågar sammanlagt hundra	personer.	We are asking a total of a hundred people.
+Det är nionde gången jag är här.	It is the ninth time I am here.
+Hon är nitton och arbetar med sin	mamma.	She is nineteen and works with her mom.
+Om tjugofem år är jag femtio år	gammal.	In twenty-five years I will be fifty years old.
+Det är den femte juli nu.	It is the fifth of July now.
+Min mamma är dubbelt så gammal	som jag.	My mom is twice as old as me.
+Ett och ett halvt år	One and a half years
+Vi har tre stycken.	We have three of them.
+Tusentals människor läser hennes	böcker.	Thousands of people read her books.
+Han bor antingen i Sverige eller i	Finland.	He lives either in Sweden or in Finland.
+Pappas katt ser sig själv i spegeln.	Dad's cat sees itself in the mirror.
+Han köper något till barnen.	He is buying something for the children.
+Den här boken är min.	This book is mine.
+Vi åker till Sverige på semester.	We are going to Sweden on vacation.
+Varför svänger du inte?	Why aren't you turning?
+Finns det internationella pass?	Are there international passports?
+Klockan är halv tre.	It is half past two.
+Jag har hundratals böcker!	I have hundreds of books!
+Den sjunde boken är den sista.	The seventh book is the last.
+Älgen äter ett äpple till.	The moose is eating one more apple.
+Behöver du någonting?	Do you need anything?
+Har du några barn?	Do you have any children?
+De lever i arton år.	They live for eighteen years.
+Hur mår du?	How are you?
+Vad innehåller boken?	What does the book contain?
+Brödet innehåller salt.	The bread contains salt.
+Hennes dotter klipper i papperet.	Her daughter is cutting the paper.
+Jag möter dig på hotellet.	I am meeting you at the hotel.
+Jag möter henne ofta på bron.	I often meet her on the bridge.
+Jag ställer flaskan i skåpet.	I am putting the bottle in the cabinet.
+Vi hyr cyklar.	We are renting bicycles.
+Vi saknar dig.	We miss you.
+Vem liknar barnet?	Who does the child resemble?
+Jag tappar min mobil.	I lose my cell phone.
+Jag missar aldrig bussen!	I never miss the bus!
+Han lägger duken på bordet.	He is laying the tablecloth on the table.
+Hon fyller poolen med vatten.	She is filling the pool with water.
+De fortsätter.	They are continuing.
+Han fortsätter sitt arbete.	He is continuing his work.
+Jag bygger hus.	I build houses.
+De bygger båten.	They are building the boat.
+Skjortan torkar.	The shirt is drying.
+Handduken torkar inte!	The towel is not drying!
+Vem väntar ni på?	Who are you waiting for?
+Jag väntar på dig.	I am waiting for you.
+Vad tillverkar de?	What do they produce?
+De blandar vin med vatten.	They are mixing wine with water.Du äter min hunds mat.	You are eating my dog's food.
+Ett barn, flera barn	A child, several children
+Flickorna läser breven.	The girls are reading the letters.
+Barnen äter glass.	The children are eating ice cream.
+Kvinnorna har breven.	The women have the letters.
+Riset	The rice
+Mannen har brevet.	The man has the letter.
+Ert barn läser en tidning.	Your child is reading a newspaper.
+De älskar era barn.	They love your children.
+Vin är en dryck.	Wine is a beverage.
+Ett glas vatten	A glass of water
+Jag äter äpplet.	I am eating the apple.
+Barnet läser en bok.	The child is reading a book.
+Jag är vegetarian.	I am a vegetarian.
+Pojkarna läser breven.	The boys are reading the letters.
+Jag läser mina böcker.	I am reading my books.
+Vårt äpple	Our apple
+Djuren dricker vatten.	The animals are drinking water.
+Kvinnan har tidningen.	The woman has the newspaper.
+Katten äter fisken.	The cat is eating the fish.
+Nötköttet	The beef
+Han tycker om hennes hundar.	He likes her dogs.
+Kockar har knivar.	Cooks have knives.
+Era katter dricker vatten.	Your cats are drinking water.
+Våra barns böcker	Our children's books
+Ett djur, flera djur	An animal, several animals
+Hon älskar mig inte.	She does not love me.
+Djuren	The animals
+Männen läser böckerna.	The men are reading the books.
+Kvinnan har på sig en klänning.	The woman is wearing a dress.
+Skon är din.	The shoe is yours.
+Han har en tröja.	He has a sweater.
+Män tycker om kläder.	Men like clothes.
+Kvinnan har på sig en kostym.	The woman is wearing a suit.
+Har du en knapp?	Do you have a button?
+Rocken har flera fickor.	The coat has several pockets.
+En skjorta, flera skjortor	A shirt, several shirts
+Barnens hundar	The children's dogs
+Slipsen är hans.	The tie is his.
+Kvinnorna har på sig klänningar.	The women are wearing dresses.
+Barnen läser breven.	The children are reading the letters.
+Jag tycker om hennes katt.	I like her cat.
+Hans hund äter fisk.	His dog is eating fish.
+Kjolen	The skirt
+Kvinnan älskar sina barn.	The woman loves her children.
+Jag älskar kläderna.	I love the clothes.
+Han tycker om er.	He likes you.
+Hon läser hans brev.	She is reading his letter.
+Hon tycker om tröjan.	She likes the sweater.
+Skorna är mina.	The shoes are mine.
+Pojken har en skjorta.	The boy has a shirt.
+Du har på dig min tröja.	You are wearing my sweater.
+Det är min strumpa.	It is my sock.
+Kvinnan tycker om skärpet.	The woman likes the belt.
+Det regnar och barnen springer.	It is raining and the children are running.
+Jag hör dig.	I hear you.
+De sover.	They are sleeping.
+De åker.	They are going.
+Ser du smörgåsarna?	Do you see the sandwiches?
+Pojken springer och sjunger.	The boy is running and singing.
+Betalar du?	Are you paying?
+Björnen hittar mat.	The bear finds food.
+Hon vill ha kläderna.	She wants the clothes.
+De gråter.	They are crying.
+Hon leker.	She is playing.
+Han lyssnar.	Heiis listening.
+De visar sina skor.	They are showing their shoes.
+Lagar du mat?	Are you cooking?
+Mannen lagar mat.	The man is cooking.
+Ser de oss?	Do they see us?
+Jag lagar mat.	I am cooking.
+Jag ritar ett äpple.	Il am drawing an apple.
+Hon har på sig strumpor.	She is wearing socks.
+Skjortan har knappar.	The shirt has buttons.
+Mannen har flera skärp.	The man has several belts.
+Flickan har en jacka.	The girl has a jacket.
+Jag älskar jackan.	I love the jacket.
+De har på sig kostymerna.	They are wearing the suits.
+Hon har skor på sig.	She is wearing shoes.
+Hon skrattar.	She is laughing.
+Flickan visar sin bok.	The girl is showing her book.
+Det regnar.	It is raining.
+Säljer du gafflar?	Do you sell forks?
+Mannen och kvinnan pratar.	The man and the woman are speaking.
+De lyssnar inte.	They are not listening.
+Flickan ritar en älg.	The girl is drawing a moose.
+Ser du mig?	Do you see me?
+Det finns bröd.	There is bread.
+Du väljer hunden.	You choose the dog.
+Jag gråter inte.	I am not crying.
+Jag vill ha en halsduk.	I want a scarf.
+De använder sina strumpor.	They are using their socks.
+Vi stöttar dig.	We support you.
+Det är mitt skärp.	It is my belt.
+Jag vill ha en smörgås.	I want a sandwich.
+Ett vitt vin	A white wine
+Den svarta spindeln	The black spider
+Pojken har ett gult äpple.	The boy has a yellow apple.
+Han har de gula byxorna.	He has the yellow pants.
+De rosa byxorna är hennes.	The pink pants are hers.
+Mannen använder sin tallrik.	The man is using his plate.
+Vargen äter den svarta ankan.	The wolf is eating the black duck.
+De gula äpplena är våra.	The yellow apples are ours.
+De gula tallrikarna	The yellow plates
+Vart simmar ankan?	Where is the duck swimming?
+Har du ingen katt?	Don't you have a cat?
+Jag tycker inte om de bruna äpplena.	I do not like the brown apples.
+Mitt ägg är blått.	My egg is blue.
+Den lila klänningen är min.	The purple dress is mine.
+Varför gör du det?	Why are you doing it?
+Jag tycker om de gula fåglarna.	I like the yellow birds.
+Finns det ingen mat?	Isn't there any food?
+Varför skrattar du åt mig?	Why are you laughing at me?
+Vad skrattar du åt?	What are you laughing at?
+Enligt honom är skärpet grönt.	According to him, the belt is green.
+Enligt henne är hästen vit.	According to her, the horse is white.
+Hur många böcker läser hon?	How many books is she reading?
+Vilka strumpor är hennes?	Which socks are hers?
+Kvinnan vet var boken är.	The woman knows where the book is.
+Flickan frågar och kvinnan svarar.	The girl is asking and the woman is	answering.
+Vet du var vargen är?	Do you know where the wolf is?
+Har du inget svar?	Don't you have an answer?
+Finns det ingen sked?	Isn't there any spoon?
+Har de inga tallrikar?	Don't they have any plates?
+Djur arbetar inte.	Animals do not work.
+Kvinnan sover hos mannen.	The woman is sleeping at the man's place.
+Jag väljer åt dig.	I am choosing for you.
+En av hundarna springer.	One of the dogs is running.
+Tallriken är mellan dig och mig.	The plate is between you and me.
+Vem svarar?	Who is answering?
+Vilka smörgåsar är våra?	Which sandwiches are ours?
+Pojken frågar flickan.	The boy is asking the girl.
+Hon hör mig inte.	She does not hear me.
+Vart springer hon?	Where is she running?
+Förstår du?	Do you understand?
+Vem vet?	Who knows?
+Jag dricker svart kaffe.	I am drinking black coffee.
+Vi går genom restaurangen.	We are walking through the restaurant.
+Hon är hos mig.	She is at my place.
+Jag sitter bakom dig.	I am sitting behind you.
+Vart går du?	Where are you going?
+Jo, det gör jag.	Yes, I do.
+Varför svarar du inte?	Why aren't you answering?
+Vi går på restaurang.	We are going to a restaurant.
+Mannen står bredvid kvinnan.	The man is standing next to the woman.
+Vi åker framåt.	We are going forward.
+Finns det inget kaffe?!	Is there no coffee?!
+Vad har du i fickorna?	What do you have in your pockets?
+Svaret är nej.	The answer is no.
+Har du inga frågor?	Don't you have any questions?
+Över barnen flyger fåglarna.	Over the children, the birds are flying.
+Jag står bakom dig.	I am standing behind you.
+Jag går framåt.	I am walking forward.
+Hon kommer när som helst.	She is coming at any time.
+Jag vet inte om han vill.	I do not know if he wants to.
+Vi äter innan vi går.	We eat before we walk.
+Han går inte utan springer.	He is not walking but running.
+Han lagar mat medan vi sover.	He cooks while we sleep.
+Han älskar mig eftersom jag älskar	honom.	He loves me because I love him.
+Jag lyssnar därför att hon pratar.	I am listening because she is speaking.
+Hunden tycker om dig därför att du	har mat.	The dog likes you because you have food.
+Vargen vet att björnen sover.	The wolf knows that the bear is sleeping.
+Jag tycker om dig, men jag älskar	henne.	I like you, but I love her.
+Hon använder kläderna innan hon	säljer dem.	She uses the clothes before she sells	them.
+Hon sitter framför mig.	Sheiis sitting in front of me.
+Kniven är vid glaset.	The knife is by the glass.
+Hunden står bredvid hästen.	The dog is standing next to the horse.
+Jag äter om du dricker.	I eat if you drink.
+Han skriver att han älskar henne.	He is writing that he loves her.
+Vi har svaren.	We have the answers.
+Flickan som äter ett äpple tycker om	hästar.	The girl who is eating an apple likes	horses.
+Mitt svar är ja.	My answer is yes.
+Du vet att jag älskar dig.	You know that I love you.
+På eftermiddagen	In the afternoon
+I årtionden	For decades
+Vi åker om en timme.	We are going in an hour.
+Jag simmar inte förrän på tisdag.	Il am not swimming until Tuesday.
+Hon är årtiondets kvinna.	She is the woman of the decade.
+Vid vilken tid?	At what time?
+Vad gör din hund?	What is your dog doing?
+De rosa byxorna är hans.	The pink pants are his.
+Ja, det finns kaffe.	Yes, there is coffee.
+Kommer du i eftermiddag?	Are you coming this afternoon?
+Har du tid?	Do you have time?
+Det är kväll.	It is evening.
+Jag sover i flera timmar.	I am sleeping for several hours.
+Vilken dag är det?	What day is it?
+På fredag kommer brevet.	On Friday the letter is coming.
+Det är måndag i dag.	It is Monday today.
+De äter på nätterna.	They eat at night.
+Nätterna är våra.	The nights are ours.
+Hon äter frukost på morgonen.	She eats breakfast in the morning.
+Sjunger han på tisdagar?	Does he sing on Tuesdays?
+Det tar en vecka.	It takes a week.
+De kommer i helgen.	They are coming this weekend.
+Vad är hennes ålder?	What is her age?
+De kommer på torsdag.	They are coming on Thursday.
+Torsdag kommer före fredag.	Thursday comes before Friday.
+Hans kostym kommer om en månad.	His suit is coming in a month.
+Är det lördag eller söndag i dag?	Is it Saturday or Sunday today?
+År och månader	Years and months
+Februari är en av årets månader.	February is one of the months of the year.
+Varför tycker du så mycket om juni?	Why do you like June so much?
+Vad är dagens datum?	What is today's date?
+Vad är en vardag?	What is a workday?
+Juli är en månad på året.	July is a month of the year.
+I september sjunger jag mycket.	In September I sing a lot.
+På midsommar äter vi mycket mat.	On Midsummer we eat a lot of food.
+Årstiderna är vår, sommar, höst och	vinter.	The seasons are spring, summer, fall and	winter.
+En period	A period
+När är du född?	When were you born?
+Många århundraden	Many centuries
+Vi läser en stund.	We are reading for a while.
+Minuter och sekunder	Minutes and seconds
+Det tar ett årtionde.	It takes a decade.
+Flera perioder	Several periods
+När är festen?	When is the party?
+Ett dygn	A day
+Ett halvår	Half a year
+Tills du hittar den.	Until you find it.
+Det tar generationer.	It takes generations.
+De kommer om en kvart.	They are coming in fifteen minutes.
+Jag läser boken på en kvart.	I am reading the book in fifteen minutes.
+Jag älskar inte dig, utan honom.	I do not love you, but him.
+När jag lagar mat äter hon.	When I cook, she eats.
+Jag kommer om en stund.	I am coming in a while.
+Ni är välkomna till oss i oktober.	You are welcome to our place in October.
+Det är han som läser min bok.	He is the one who is reading my book.
+Kommer juni före maj?	Does June come before May?
+Vi äter pasta i kväll.	We are eating pasta tonight.
+Om en dag	In a day
+Tidningen kommer på måndagar och	onsdagar.	The newspaper comes on Mondays and	Wednesdays.
+För ögonblicket arbetar jag.	At the moment I am working.
+Ett dygn?	A day?
+Om ett ögonblick!	In a moment!
+Vem är din farbror?	Who is your uncle?
+En förälder är ett barns mamma	eller pappa.	A parent is a child's mom or dad.
+Jag har många kusiner.	I have many cousins.
+Min svärfar är min frus far och min	far är hennes svärfar.	My father-in-law is my wife's father, and	my father is her father-in-law.
+Min faster är min pappas syster.	My aunt is my dad's sister.
+Jag älskar min moster.	I love my aunt.
+Min morbror är min mors bror.	My uncle is my mother's brother.
+Min pappas bror är min farbror.	My dad's brother is my uncle.
+Mina systrars barn	My sisters' children
+Barnen leker i en kvart.	The children play for fifteen minutes.
+Ett ögonblick!	One moment!
+Vad heter din tvilling?	What is your twin's name?
+När är bröllopet?	When is the wedding?
+Hennes föräldrar har en restaurang.	Her parents have a restaurant.
+Vi äter om en stund.	We are eating in a while.
+Ett århundrade	A century
+Nätterna är svarta.	The nights are black.
+Jag skriver brev på morgonen.	I write letters in the morning.
+Min moster har många döttrar.	My aunt has many daughters.
+Farmor läser tidningen.	Grandmother is reading the newspaper.
+Min moster är min mors syster.	My aunt is my mother's sister.
+Jag har många fastrar.	I have many aunts.
+Är det inte torsdag i dag?	Isn't it Thursday today?
+Jag talar om din generation.	I am talking about your generation.
+Vi simmar på somrarna.	We swim in the summer.
+Jag går till läkaren på torsdagar.	I go to the doctor on Thursdays.
+Varför arbetar du som författare?	Why do you work as a writer?
+Min bror är modell.	My brother is a model.
+Är din mamma på jobbet?	Is your mom at work?
+Personalen på restaurangen	The staff at the restaurant
+Han är på arbetet.	He is at work.
+Min mamma är polis.	My mom is a police officer.
+Min farfar är advokat.	My grandfather is a lawyer.
+Hennes moster är tolk.	Her aunt is an interpreter.
+Han är hennes sekreterare.	He is her secretary.
+Vem har flera sekreterare?	Who has several secretaries?
+Min karriär som artist	My career as an artist
+Vilken karriär!	What a career!
+Jag är domare.	Il am a judge.
+Vakterna kommer!	The guards are coming!
+Min syster är brandman.	My sister is a firefighter.
+Skådespelarna ser oss inte.	The actors do not see us.
+De använder en professionell	modell.	They are using a professional model.
+Skådespelerskorna äter på	restaurangen.	The actresses are eating at the restaurant.
+Artistens vakter springer efter	kvinnan.	The artist's guards are running after the	woman.
+Han är präst.	Heiis a priest.
+Tycker du om ditt yrke?	Do you like your profession?
+Jag ser inga soldater i dag.	I don't see any soldiers today.
+Arkitekten skriver ett brev.	The architect is writing a letter.
+Soldaten vet vilka de är.	The soldier knows who they are.
+Jag äter hos honom.	I am eating at his place.
+Vilken skjorta är blå?	Which shirt is blue?
+Vems hund är det?	Whose dog is it?
+Mannen skriver datumet på brevet.	The man is writing the date on the letter.
+Jag är född på sommaren.	I was born in the summer.
+Sommar och vår är årstider.	Summer and spring are seasons.
+Det regnar mycket i november.	It rains a lot in November.
+Vi arbetar inte på lördagar.	We do not work on Saturdays.
+Midsommar är i juni.	Midsummer is in June.
+om ett halvår	in half a year
+Vakten	The guard
+Är hennes föräldrar författare?	Are her parents writers?
+Våra pappor är bröder.	Our dads are brothers.
+Systrarna sjunger.	The sisters are singing.
+Jag älskar mitt yrke.	I love my profession.
+Jag skriver århundradets bok.	I am writing the book of the century.
+Vi äter mycket mat i december.	We eat a lot of food in December.
+Han har en vit tröja på sig.	He is wearing a white sweater.
+Inte förrän i morgon.	Not until tomorrow.
+Hur många arbetare har ni?	How many workers do you have?
+Vi är trötta!	We are tired!
+Ett litet barn	A small child
+En liten kaffe, tack!	One small coffee, please!
+Björnen är ett stort djur.	The bear is a big animal.
+Den långe mannen är min chef.	The tall man is my boss.
+Min pappa är en stor man.	My father is a big man.
+Hennes syster är lång.	Her sister is tall.
+Kallt kaffe	Cold coffee
+Våra egna handskar	Our own gloves
+Hon har inga egna barn.	She has no children of her own.
+Kaffet är inte varmt.	The coffee is not warm.
+Är det din egen hund?	Is it your own dog?
+Hennes bröder är långa.	Her brothers are tall.
+Restaurangerna är öppna.	The restaurants are open.
+En ren ren	A clean reindeer
+Du är inte gammal.	You are not old.
+Du har en ny klänning.	You have a new dress.
+Mina föräldrar är gamla.	My parents are old.
+Det är ett smutsigt jobb.	It is a dirty job.
+Vi äter inte gammalt bröd.	We are not eating old bread.
+Har hon inga skor på sig?	Isn't she wearing any shoes?
+I morgon är det helg.	Tomorrow it is the weekend.
+Vilket datum är det i dag?	What date is it today?
+Kostymerna är dyra.	The suits are expensive.
+Barnen är tvåspråkiga.	The children are bilingual.
+Vad är du rädd för?	What are you afraid of?
+Har du det bekvämt?	Are you comfortable?
+En värdefull bok	A valuable book
+Vita älgar är ovanliga.	White moose are unusual.
+Det är en vanlig fråga.	It is a normal question.
+De är rädda för vargar.	They are afraid of wolves.
+Hon har sina vanliga kläder på sig.	She is wearing her normal clothes.
+Ett långt brev.	A long letter.
+Tiden med barnen är värdefull.	The time with the children is valuable.
+Har du de gamla smutsiga	strumporna?	Do you have the old dirty socks?
+I sista sekunden	At the last second
+På sommaren är dagarna långa.	In the summer, the days are long.
+En arbetare kommer.	A worker is coming.
+Frukten ligger på tallriken.	The fruit is on the plate.
+Älgen tittar på pojken.	The moose is looking at the boy.
+Vi bjuder henne på lunch.	We are treating her to lunch.
+Jag hinner inte i dag.	I do not have enough time today.
+Nej, jag hinner inte.	No, I do not have enough time.
+Stämmer det?	Is that correct?
+Du känner mig!	You know me!
+Jag orkar inte!	I do not have the energy!
+Han kysser mig.	He is kissing me.
+Han får ett svar.	He is getting an answer.
+Kvinnan får en häst av sin man.	The woman is getting a horse from her	husband.
+Vad önskar du dig?	What are you wishing for?
+De lär honom engelska.	They are teaching him English.
+Hon dör.	She is dying.
+Räcker det?	Is it enough?
+Jag tror dig!	I believe you!
+Hon passerar.	She is passing by.
+Jag tackar dig.	I thank you.
+Vad letar ni efter?	What are you looking for?
+Han följer efter mig.	He is following me.
+Fryser ni inte?	Aren't you freezing?
+Vilar han?	Is he resting?
+Vem börjar?	Who is starting?
+Vad säger du?	What are you saying?
+Hon kramar mig.	She is hugging me.
+Ja, jag stannar.	Yes, I am staying.
+Jag litar på dig!	I trust you!
+Maten verkar god!	The food seems tasty!
+Jag undrar varför.	I wonder why.
+Vad får jag för det?	What do I get for it?
+De har öppet på söndagar.	They are open on Sundays.
+Brevet är till vänster om tidningen.	The letter is to the left of the newspaper.
+Han har skjortor i olika färger.	He has shirts in different colors.
+Det är den sista dagen.	It is the last day.
+Boken är konstig.	The book is strange.
+Vilken historisk period läser du om?	What historical period are you reading	about?
+Hon har sin fina klänning på sig.	She is wearing her nice dress.
+Han känner henne.	He knows her.
+Långt bort	Far away
+Hon äter inte frukt, inte ens äpplen.	She does not eat fruit, not even apples.
+Vad gör han för närvarande?	What is he doing currently?
+Till och med jag tycker om henne.	Even I like her.
+Vi hinner inte!	We do not have enough time!
+Arbetarna litar inte på chefen.	The workers do not trust the boss.
+Jag undrar var hon är.	I wonder where she is.
+Det verkar som att kostymen är	orange.	It seems like the suit is orange.
+Varför lär du honom svenska?	Why are you teaching him Swedish?
+Varför ringer hon mig inte?	Why does she not call me?
+Jag önskar mig en hund.	I am wishing for a dog.
+Det är inte nödvändigtvis en dyr	kostym.	It is not necessarily an expensive suit.
+Han talar inte heller engelska.	He does not speak English either.
+Det är inte nödvändigtvis hans	mamma.	It is not necessarily his mother.
+Hennes klänning är verkligen	vacker.	Her dress is really beautiful.
+Nu är det för sent!	Now it is too late!
+Jag vill också ha ett äpple.	I also want an apple.
+Maten räcker inte.	There is not enough food.
+Vi tittar på kaffet.	We are looking at the coffee.
+Hur är det möjligt?	How is it possible?
+En viktig fråga.	An important question.
+Hon har en dålig dag.	She is having a bad day.
+Nej, vi är inte dåliga!	No, we are not bad!
+Min bror kommer sist.	My brother is coming last.
+Han har fel.	He is wrong.
+Vad är det för fel på dig?	What is wrong with you?
+Det är precis samma färg.	It is exactly the same color.
+Jag läser tidningen sent på kvällen.	I read the newspaper late in the evening.
+De är på stranden.	They are at the beach.
+Var är köket?	Where is the kitchen?
+Mitt badrum är dåligt.	My bathroom is bad.
+Vårt hotell ligger vid stranden.	Our hotel is by the beach.
+Ligger hotellet vid flygplatsen?	Is the hotel by the airport?
+Välkommen till mitt land!	Welcome to my country!
+Jag simmar längs stranden.	Il am swimming along the beach.
+Hon är chef för avdelningen.	She is the boss of the department.
+Vi simmar i sjön.	We are swimming in the lake.
+Staden ligger på en ö.	The city is located on an island.
+Det finns många sjöar i Sverige.	There are many lakes in Sweden.
+Har ni en bastu?	Do you have a sauna?
+Museet är inte öppet än.	The museum is not open yet.
+Vi bor i dalen.	We live in the valley.
+Byggnaden är tom.	The building is empty.
+Hotellet ligger vid kusten.	The hotel is located by the coast.
+Landet har långa kuster.	The country has long coasts.
+The movie theater
+Palatset ligger utanför huvudstaden.	The palace is located outside the capital.
+En liten hamn	A small port
+Skådespelerskan köper ett palats	med många torn.	The actress is buying a palace with many	towers.
+Ett område i norr	An area in the north
+Finns det inga toaletter här?	Aren't there any toilets here?
+Toaletterna är där borta.	The toilets are over there.
+Till och med farfar sjunger.	Even grandfather is singing.
+Han skriver fortfarande brev till mig.	He still writes letters to me.
+Han sjunger inte särskilt bra.	He does not sing very well.
+Han ser fortfarande inte gammal ut.	He still does not look old.
+Jag går på vägen med min hund.	I am walking on the road with my dog.
+Ja, det gör vi alltid.	Yes, we always do that.
+Åker du dit i kväll?	Are you going there tonight?
+Det regnar inte mycket i juli.	It does not rain a lot in July.
+Det står en korg på bordet.	There is a basket on the table.
+Har vi tillräckligt med socker?	Do we have enough sugar?
+Barn bor i allmänhet hos sina	föräldrar.	Children generally live with their parents.
+Han är egentligen inte min bror.	He is not actually my brother.
+Här finns det mycket mat.	Here there is a lot of food.
+Var har ni kastruller?	Where do you keep saucepans?
+Vad håller du på med?	What are you doing?
+Han tror mig inte.	He does not believe me.
+Älgar är i allmänhet vegetarianer.	Moose are generally vegetarians.
+Batteriet är för gammalt.	The battery is too old.
+De säljer många olika garderober.	They sell many different closets.
+Har ni snören?	Do you have strings?
+Har du en sax?	Do you have a pair of scissors?
+Stannar du på en kopp te?	Are you staying for a cup of tea?
+Det tar bara en minut.	It only takes a minute.
+Det tar ungefär en timme.	It takes approximately one hour.
+Vi sitter på marken.	We are sitting on the ground.
+Allén är vackert gul på hösten.	The alley is beautifully yellow in the fall.
+Den står på min hylla.	It is on my shelf.
+Det är en väldigt dyr maskin.	It is a very expensive machine.
+Väggarna är gröna.	The walls are green.
+Väskan har hjul.	The bag has wheels.
+Duken ligger på bordet.	The tablecloth is on the table.
+Röda tak	Red roofs
+Hon tvättar sig med tvål och vatten.	She is washing herself with soap and	water.
+Han tar ett föremål från bordet.	He is taking an object from the table.
+Skåpet är öppet.	The cabinet is open.
+Hon lyssnar aldrig på radio.	She never listens to the radio.
+Fönstret är öppet.	The window is open.
+Är lamporna nya?	Are the lamps new?
+Motorn är effektiv.	The engine is efficient.
+Pratar vi om samma sak?	Are we talking about the same thing?
+Jag har ingen kudde.	I don't have a pillow.
+Hon talar till och med svenska.	She even speaks Swedish.
+Det är ett svart pulver.	It is a black powder.
+Maten är för salt.	The food is too salty.
+Jag litar egentligen inte på honom.	I do not actually trust him.
+Äntligen ser du mig!	Finally you see me!
+Pojken är rädd för garderoben.	The boy is afraid of the closet.
+Det är en allvarlig fråga.	It is a serious question.
+En viktig marknad	An important market
+Han dricker ändå aldrig kaffe.	He never drinks coffee anyway.
+Vattnet i kastrullen är varmt.	The water in the saucepan is warm.
+Vi behöver mer tyg.	We need more cloth.
+Vi bor här.	We live here.
+Det här är kommittén.	This is the committee.
+Vi åker hem till byn.	We are going home to the village.
+Mitt förhållande till min bror är inte	så bra.	My relationship with my brother is not so	good.
+Barnen ritar på marken.	The children are drawing on the ground.
+Han ritar en gul stol.	He is drawing a yellow chair.
+Min mormor har många klockor.	My grandmother has a lot of clocks.
+Jag tittar på tv.	I am watching TV.
+Dörren är inte ens öppen.	The door is not even open.
+Han har bara en handduk på sig.	He is only wearing a towel.
+Kastrullerna står på bordet.	The saucepans are on the table.
+Torsdag är en dag i veckan.	Thursday is a day of the week.
+En tjej och en kille sjunger	tillsammans.	A girl and a guy are singing together.
+Hans syster sitter i fängelse.	His sister is in prison.
+I västra hörnet	In the western corner
+På lördagar tittar jag alltid på tv.	On Saturdays I always watch TV.
+Böckerna ligger i min väns gröna	resväska.	The books are in my friend's green	suitcase.
+Hon kommer på besök.	She is coming for a visit.
+Norden	The Nordic countries
+Han är på semester i Finland.	He is on vacation in Finland.
+En biljett, tack!	A ticket, please!
+Nu börjar äventyret!	Now the adventure starts!
+Vi tar nästa plan till Finland.	We are taking the next plane to Finland.
+De pratar om sina resor till Sverige.	They are talking about their trips to	Sweden.
+Det finns flera finlandssvenska	städer i Finland.	There are several Finno-Swedish cities in	Finland.
+De kör runt i staden.	They are driving around town.
+Vi visar en turist vägen till hotellet.	We are showing a tourist the way to the	hotel.
+Jag åker tunnelbana till jobbet.	I go by subway to work.
+Jag ligger vid poolen hela dagen.	I lie by the pool the whole day.
+Spädbarnet är en dag gammalt.	The baby is a day old.
+Lakanet är vitt.	The sheet is white.
+De gamla leksakerna är vackra.	The old toys are beautiful.
+Varför ligger sakerna på golvet?	Why are the things lying on the floor?
+Barnen har många leksaker.	The children have many toys.
+Ett rött skåp	A red cabinet
+Ett stort hjul	A big wheel
+Hjulen är vita.	The wheels are white.
+Han sjunger varje dag.	He sings every day.
+Alla utom kocken äter.	Everyone except the cook is eating.
+Vem som helst	Anyone
+De andra kvinnorna	The other women
+Hur tvättar ni de andra mattorna?	How do you wash the other carpets?
+Det är ett värdefullt föremål.	It is a valuable object.
+Den är i det andra skåpet.	It is in the other cabinet.
+Känner ni varandra?	Do you know each other?
+Vi köper ett annat bord.	We are buying another table.
+Finns det inget annat snöre?	Is there no other string?
+Han bor i en annan stad.	He lives in another city.
+Jag vill ha ett sådant paraply.	I want an umbrella like that.
+Ingen vet.	Nobody knows.
+Förra veckan	Last week
+Känner du hans förra pojkvän?	Do you know his last boyfriend?
+Förra veckan eller förrförra veckan?	Last week or the week before last week?
+ingendera av dem	neither of them
+Ingendera av bröderna lyssnar på	mig.	Neither of the brothers is listening to me.
+Vilken vill du ha? Ingendera.	Which do you want? Neither.
+Vem svarar på en sådan fråga?	Who answers a question like that?
+Hallå, är det någon där?	Hello, is there someone there?
+Vi ser sällan sådana stränder.	We rarely see beaches like that.
+Man behöver alltid vatten.	One always needs water.
+Hur kommer man till stranden?	How does one get to the beach?
+Vem som helst som arbetar med	barn vet vad jag pratar om.	Anyone who works with children knows	what I am talking about.
+Dessa människor behöver mat och	vatten.	These people need food and water.
+Jag kommer på besök.	I am coming for a visit.
+De tar båten till Amerika.	They are taking the boat to America.
+Din pappa ser ut som en turist.	Your dad looks like a tourist.
+Min familj bor söder om staden.	My family lives south of the city.
+De reser runt i landet.	They are traveling around the country.
+Min man är finlandssvensk.	My husband is a Finland-Swede.
+Hon arbetar på en annan avdelning.	She works in another department.
+Jag är på semester!	I am on vacation!
+Det här är min fru.	This is my wife.
+Pengarna ligger på bordet.	The money is on the table.
+Varför ligger du på marken?	Why are you lying on the ground?
+Vems är den där boken?	Whose is that book?
+Vad gör denna kvinna?	What is this woman doing?
+Vi känner inte varandra.	We do not know each other.
+Letar du efter någonting?	Are you looking for something?
+Det är antingen en matta eller en	handduk.	It is either a rug or a towel.
+De gör det själva.	They are doing it themselves.
+Ett antal år	A number of years
+Jag har bara fyra stycken.	I only have four of them.
+Min morfar har tio barnbarn.	My grandfather has ten grandchildren.
+Ett stort antal människor.	A large number of people.
+Andra veckan i maj	The second week in May
+De första gångerna	The first times
+Fem stycken, tack!	Five of them, please!
+Tredje generationen	The third generation
+Mängden olja är viktig.	The amount of oil is important.
+Antalet soldater är stort.	The number of soldiers is large.
+De betalar tio miljoner för hotellet.	They are paying ten million for the hotel.
+Summan	The sum
+Nu är klockan halv fem.	Now, it is half past four.
+Vi arbetar fyrtio timmar per vecka.	We work forty hours per week.
+Det kostar för mycket!	It costs too much!
+Fjärde veckan i maj	The fourth week in May
+Femte hjulet	The fifth wheel
+Vad gör du den sjätte juni?	What are you doing the sixth of June?
+Jag vill ha dubbelt så mycket.	I want twice as much.
+Juni är årets sjätte månad.	June is the sixth month of the year.
+Den sjunde dagen	The seventh day
+Den nionde april	The ninth of April
+Nittonhundratalet	The twentieth century
+Jag arbetar sammanlagt tre veckor.	I work a total of three weeks.
+Vi frågar sammanlagt hundra	personer.	We are asking a total of a hundred people.
+Det är nionde gången jag är här.	It is the ninth time I am here.
+Hon är nitton och arbetar med sin	mamma.	She is nineteen and works with her mom.
+Om tjugofem år är jag femtio år	gammal.	In twenty-five years I will be fifty years old.
+Det är den femte juli nu.	It is the fifth of July now.
+Min mamma är dubbelt så gammal	som jag.	My mom is twice as old as me.
+Ett och ett halvt år	One and a half years
+Vi har tre stycken.	We have three of them.
+Tusentals människor läser hennes	böcker.	Thousands of people read her books.
+Han bor antingen i Sverige eller i	Finland.	He lives either in Sweden or in Finland.
+Pappas katt ser sig själv i spegeln.	Dad's cat sees itself in the mirror.
+Han köper något till barnen.	He is buying something for the children.
+Den här boken är min.	This book is mine.
+Vi åker till Sverige på semester.	We are going to Sweden on vacation.
+Varför svänger du inte?	Why aren't you turning?
+Finns det internationella pass?	Are there international passports?
+Klockan är halv tre.	It is half past two.
+Jag har hundratals böcker!	I have hundreds of books!
+Den sjunde boken är den sista.	The seventh book is the last.
+Älgen äter ett äpple till.	The moose is eating one more apple.
+Behöver du någonting?	Do you need anything?
+Har du några barn?	Do you have any children?
+De lever i arton år.	They live for eighteen years.
+Hur mår du?	How are you?
+Vad innehåller boken?	What does the book contain?
+Brödet innehåller salt.	The bread contains salt.
+Hennes dotter klipper i papperet.	Her daughter is cutting the paper.
+Jag möter dig på hotellet.	I am meeting you at the hotel.
+Jag möter henne ofta på bron.	I often meet her on the bridge.
+Jag ställer flaskan i skåpet.	I am putting the bottle in the cabinet.
+Vi hyr cyklar.	We are renting bicycles.
+Vi saknar dig.	We miss you.
+Vem liknar barnet?	Who does the child resemble?
+Jag tappar min mobil.	I lose my cell phone.
+Jag missar aldrig bussen!	I never miss the bus!
+Han lägger duken på bordet.	He is laying the tablecloth on the table.
+Hon fyller poolen med vatten.	She is filling the pool with water.
+De fortsätter.	They are continuing.
+Han fortsätter sitt arbete.	He is continuing his work.
+Jag bygger hus.	I build houses.
+De bygger båten.	They are building the boat.
+Skjortan torkar.	The shirt is drying.
+Handduken torkar inte!	The towel is not drying!
+Vem väntar ni på?	Who are you waiting for?
+Jag väntar på dig.	I am waiting for you.
+Vad tillverkar de?	What do they produce?
 De blandar vin med vatten.	They are mixing wine with water.
