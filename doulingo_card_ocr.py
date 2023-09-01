@@ -66,16 +66,15 @@ def all_texts_from_directory(
     file_paths.sort()
 
     result = []
-    deleted_files = []
+    deleted_files_count = 0
     for file_path in tqdm(file_paths, total=len(file_paths)):
         text = image_to_text(file_path)
         if text not in result and text not in check_for_duplicates:
             result.append(text)
         else:
-            deleted_files.append(f"\tdeleting duplicate: {file_path}\n")
+            deleted_files_count += 1
             os.remove(file_path)
-    for line in deleted_files:
-        print(line)
+    print(f"\tDeleted {deleted_files_count} duplicate files out of {len(file_paths)} files.")
     return result
 
 
