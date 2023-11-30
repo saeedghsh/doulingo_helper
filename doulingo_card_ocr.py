@@ -11,7 +11,7 @@ from tqdm import tqdm
 os.environ['TESSDATA_PREFIX'] = '/usr/share/tesseract-ocr/4.00/tessdata'
 
 
-def find_largest_white_patch(image):
+def _find_largest_white_patch(image):
     """Return the bounding box of the biggest white patch.
     This white patch supposedly contains the text."""
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -26,13 +26,13 @@ def find_largest_white_patch(image):
     return xmin, ymin, xmax, ymax
 
 
-def remove_trailing_blank_lines(text):
+def _remove_trailing_blank_lines(text):
     lines = text.rstrip('\n').split('\n')
     non_empty_lines = [line.strip() for line in lines if line.strip()]
     return '\n'.join(non_empty_lines)
 
 
-def validate_dir_path(directory_path):
+def _validate_dir_path(directory_path):
     """Return True if the path is a dir, it exists and is not empty."""
     if not os.path.exists(directory_path):
         return False
@@ -43,18 +43,18 @@ def validate_dir_path(directory_path):
     return True
 
 
-def image_to_text(image_path: str) -> str:
+def _image_to_text(image_path: str) -> str:
     """Return the text inside the image."""
     image = cv2.imread(image_path)
-    xmin, ymin, xmax, ymax = find_largest_white_patch(image)
+    xmin, ymin, xmax, ymax = _find_largest_white_patch(image)
     cropped_image = image[ymin:ymax, xmin:xmax]
     text = pytesseract.image_to_string(cropped_image, lang='swe')
-    text = remove_trailing_blank_lines(text)
+    text = _remove_trailing_blank_lines(text)
     text = text.replace("\n", "\t")
     return text
 
 
-def all_texts_from_directory(
+def _all_texts_from_directory(
     directory_path: str, check_for_duplicates: List[str] = []
 ) -> List[str]:
     """Return a list of texts from all images in directory_path.
@@ -68,7 +68,7 @@ def all_texts_from_directory(
     result = []
     deleted_files_count = 0
     for file_path in tqdm(file_paths, total=len(file_paths)):
-        text = image_to_text(file_path)
+        text = _image_to_text(file_path)
         if text not in result and text not in check_for_duplicates:
             result.append(text)
         else:
@@ -94,8 +94,8 @@ if __name__ == "__main__":
     all_results = []
     for directory in directories:
         print(f"Processing: {directory}")
-        assert validate_dir_path(directory), f"bad directory path: {directory}"
-        results = all_texts_from_directory(directory, all_results)
+        assert _validate_dir_path(directory), f"bad directory path: {directory}"
+        results = _all_texts_from_directory(directory, all_results)
         with open(f"{directory}/result.txt", 'a') as file:
             file.write("\n".join(results))
         all_results.extend(results)
